@@ -1,0 +1,564 @@
+﻿<Page FlowDirection="RightToLeft"
+    x:Class="كلام_جرايد.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:كلام_جرايد"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:ad="using:AdDuplex.Universal.Controls.Win.XAML"
+    DataContext="{Binding Source={StaticResource FeedData}}">
+    <Page.BottomAppBar>
+        <CommandBar Background="#FF4f0808">
+            <CommandBar.PrimaryCommands>
+                <AppBarButton x:ConnectionId='1' x:Name="Share" Icon="ReShare"                     Label="مشاركة"/>
+            </CommandBar.PrimaryCommands>
+            <CommandBar.SecondaryCommands>
+                <AppBarButton x:ConnectionId='2' x:Uid="Rate"                            Icon="LikeDislike" Label="تقييم" />
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid Background="WhiteSmoke">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="4*" />
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Background="#FF4F0808">
+            <TextBlock x:Name="AppName"
+                       Margin="10"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Center"
+                       FontSize="75"
+                       FontWeight="ExtraBold"
+                       Foreground="White"
+                       FontStyle="Italic">كلام جرايد</TextBlock>
+        </Grid>
+        <ProgressRing x:Name="stopring" Grid.Row="1" Visibility="Visible" IsActive="True" Foreground="#FF4F0808" Height="350" Width="350" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+        <Grid x:Name="allnews" Grid.Row="1" Background="WhiteSmoke">
+            <Hub  FontSize="55"
+                 FontStyle="Normal"
+                 FontWeight="ExtraBold" Background="WhiteSmoke" Margin="0,0,0,50" VerticalAlignment="Top">
+                <HubSection x:Name="Latest" FlowDirection="RightToLeft"
+                            VerticalAlignment="Stretch"
+                             Width="800">
+                    
+                    <HubSection.Header>
+                        <Border BorderBrush="Red">
+                        <TextBlock x:Uid="Section1Header"
+                                   FontStyle="Italic"
+                                   FontWeight="ExtraBlack"
+                                   TextLineBounds="TrimToBaseline"
+                                   OpticalMarginAlignment="TrimSideBearings"
+                                   Text=" اخر الأخبار "
+                                   FontSize="45"
+                                   Foreground="Black" />
+                        </Border>
+                    </HubSection.Header>
+                    
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+
+                            <GridView x:ConnectionId='15' x:Name="LatestNewsGridView"
+                                      AutomationProperties.AutomationId="ItemsGridView"
+                                      AutomationProperties.Name="Items"
+                                      TabIndex="1"
+                                      MaxWidth="530"
+                                      Grid.RowSpan="2"
+                                      Padding="116,136,116,46"
+                                      ScrollViewer.HorizontalScrollBarVisibility="Hidden"
+                                      ScrollViewer.HorizontalScrollMode="Disabled"
+                                      ItemsSource="{Binding Feeds[0].NewsItems}"
+                                      SelectionMode="None"
+                                      IsSwipeEnabled="false"
+                                      IsItemClickEnabled="True"
+                                                                              
+                                                                        >
+
+                                <GridView.ItemTemplate>
+                                    <DataTemplate>
+                                        <Grid HorizontalAlignment="Left"
+                                              Width="200"
+                                              Height="200">
+                                            <!--<Border Background="{ThemeResource ListViewItemPlaceholderBackgroundThemeBrush}">-->
+
+                                            <!--</Border>-->
+
+                                            <StackPanel VerticalAlignment="Stretch" Background="{ThemeResource ListViewItemOverlayBackgroundThemeBrush}">
+                                                <!--<Border VerticalAlignment="Stretch" Background="Black" BorderBrush="Black" Height="100" Width="200">-->
+                                                    <TextBlock Text="{Binding NewsTitle}"
+                                                           Foreground="{ThemeResource ListViewItemOverlayForegroundThemeBrush}"
+                                                           Style="{StaticResource BaseTextBlockStyle}"
+                                                           Height="40"
+                                                           Margin="15,0,15,0"
+                                                           FontWeight="SemiBold" />
+                                                <TextBlock Text="{Binding NewsPubDate}"
+                                                           Foreground="{ThemeResource ListViewItemOverlaySecondaryForegroundThemeBrush}"
+                                                           Style="{StaticResource BaseTextBlockStyle}"
+                                                           TextWrapping="NoWrap"
+                                                           Margin="15,0,15,10"
+                                                           FontSize="12" />
+                                            <!--</Border>-->
+                                                <Image Source="Assets/last.png" Stretch="None" VerticalAlignment="Bottom" AutomationProperties.Name="{Binding Title}" />
+                                            </StackPanel>
+                                            
+        </Grid>
+                                    </DataTemplate>
+                                </GridView.ItemTemplate>
+                            </GridView>
+                            <HyperlinkButton x:ConnectionId='16' x:Name="LatestButton"
+                                             Foreground="Red"
+                                             Content="المزيد"
+                                             VerticalAlignment="Bottom"
+                                             FontSize="25"
+                                             Width="100"
+                                             Height="100"
+                                                                        />
+                        </StackPanel>
+                    </DataTemplate>
+                </HubSection>
+                <HubSection FlowDirection="RightToLeft"
+                            VerticalAlignment="Stretch"
+                            Width="800" x:Name="PoliticsHub">
+                    <HubSection.Header>
+                        <TextBlock x:Uid="Section1Header"
+                                   FontStyle="Italic"
+                                   FontWeight="ExtraBold"
+                                   TextLineBounds="TrimToBaseline"
+                                   OpticalMarginAlignment="TrimSideBearings"
+                                   Text=" السياسة  "
+                                   Foreground="Black"
+                                   FontSize="45"/>
+                    </HubSection.Header>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <GridView x:ConnectionId='13' x:Name="PoliticsGridView"
+                                      AutomationProperties.AutomationId="ItemsGridView"
+                                      AutomationProperties.Name="Items"
+                                      MaxWidth="530"
+                                      ScrollViewer.HorizontalScrollBarVisibility="Hidden"
+                                      ScrollViewer.HorizontalScrollMode="Disabled"
+                                      TabIndex="1"
+                                      Grid.RowSpan="2"
+                                      Padding="116,136,116,46"
+                                      ItemsSource="{Binding Feeds[3].NewsItems}"
+                                      SelectionMode="None"
+                                      IsSwipeEnabled="false"
+                                      IsItemClickEnabled="True"
+                                                                            
+                                      >
+                                <GridView.ItemTemplate>
+                                    <DataTemplate>
+
+                                        <Grid HorizontalAlignment="Left"
+                                              Width="200"
+                                              Height="200">
+                                
+                                            <StackPanel VerticalAlignment="Stretch"
+                                                        Background="{ThemeResource ListViewItemOverlayBackgroundThemeBrush}">
+                                                <TextBlock Text="{Binding NewsTitle}"
+                                                           Foreground="{ThemeResource ListViewItemOverlayForegroundThemeBrush}"
+                                                           Style="{StaticResource BaseTextBlockStyle}"
+                                                           Height="40"
+                                                           Margin="15,0,15,0"
+                                                           FontWeight="SemiBold" />
+                                                <TextBlock Text="{Binding NewsPubDate}"
+                                                           Foreground="{ThemeResource ListViewItemOverlaySecondaryForegroundThemeBrush}"
+                                                           Style="{StaticResource BaseTextBlockStyle}"
+                                                           TextWrapping="NoWrap"
+                                                           Margin="15,0,15,10"
+                                                           FontSize="12" />
+                                                <Image Source="Assets/11.png"
+                                                       Stretch="None"
+                                                       AutomationProperties.Name="{Binding Title}" />
+                                            </StackPanel>
+                                        </Grid>
+
+                                    </DataTemplate>
+                                </GridView.ItemTemplate>
+
+                            </GridView>
+                            <HyperlinkButton x:ConnectionId='14' x:Name="PoliticesButton"
+                                             Foreground="Red"
+                                             Content="المزيد"
+                                             VerticalAlignment="Bottom"
+                                             FontSize="25"
+                                             Width="100"
+                                             Height="100"
+                                                                           />
+                        </StackPanel>
+                    </DataTemplate>
+                </HubSection>
+                <HubSection FlowDirection="RightToLeft"
+                            VerticalAlignment="Stretch"
+                            Width="800"
+                            
+                            x:Name="SportsHub">
+                    <HubSection.Header>
+                        <TextBlock x:Uid="Section1Header"
+                                   FontStyle="Italic"
+                                   FontWeight="ExtraBold"
+                                   FontSize="45"
+                                   TextLineBounds="TrimToBaseline"
+                                   OpticalMarginAlignment="TrimSideBearings"
+                                   Text=" الرياضة "
+                                   Foreground="Black" />
+                    </HubSection.Header>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <GridView x:ConnectionId='11' x:Name="SportsGridView"
+                                                                    
+                                      AutomationProperties.AutomationId="ItemsGridView"
+                                      AutomationProperties.Name="Items"
+                                      ScrollViewer.HorizontalScrollBarVisibility="Hidden"
+                                      ScrollViewer.HorizontalScrollMode="Disabled"
+                                      TabIndex="1"
+                                      Grid.RowSpan="2"
+                                      Padding="116,136,116,46"
+                                      ItemsSource="{Binding Feeds[1].NewsItems}"
+                                      SelectionMode="None"
+                                      IsSwipeEnabled="false"
+                                      IsItemClickEnabled="True"
+                                                                          
+                                      MaxWidth="530">
+                                <GridView.ItemTemplate>
+                                    <DataTemplate>
+                                        <Grid HorizontalAlignment="Left"
+                                              Width="200"
+                                              Height="200">
+                                            
+                                            <StackPanel VerticalAlignment="Stretch"
+                                                        Background="{ThemeResource ListViewItemOverlayBackgroundThemeBrush}">
+                                                <TextBlock Text="{Binding NewsTitle}"
+                                                           Foreground="{ThemeResource ListViewItemOverlayForegroundThemeBrush}"
+                                                           Style="{StaticResource BaseTextBlockStyle}"
+                                                           Height="40"
+                                                           Margin="15,0,15,0"
+                                                           FontWeight="SemiBold" />
+                                                <TextBlock Text="{Binding NewsPubDate}"
+                                                           Foreground="{ThemeResource ListViewItemOverlaySecondaryForegroundThemeBrush}"
+                                                           Style="{StaticResource BaseTextBlockStyle}"
+                                                           TextWrapping="NoWrap"
+                                                           Margin="15,0,15,10"
+                                                           FontSize="12" />
+                                                <Image Source="Assets/sport.png"
+                                                       Stretch="None"
+                                                        />
+                                            </StackPanel>
+                                        </Grid>
+                                    </DataTemplate>
+                                </GridView.ItemTemplate>
+                                <GridViewItem>
+                                    <!--<HyperlinkButton x:Name="LatestButton"
+                                                     Foreground="Black"
+                                                     Content="المزيد"
+                                                     FontSize="30"
+                                                     Width="200"
+                                                     Height="200"
+                                                     Click="LatestButton_Click" />-->
+                                </GridViewItem>
+                            </GridView>
+                            <HyperlinkButton x:ConnectionId='12' x:Name="SportsButton"
+                                             Foreground="Red"
+                                             Content="المزيد"
+                                             VerticalAlignment="Bottom"
+                                             FontSize="25"
+                                             Width="100"
+                                             Height="100"
+                                                                        />
+                        </StackPanel>
+                    </DataTemplate>
+                </HubSection>
+                <HubSection FlowDirection="RightToLeft"
+                            VerticalAlignment="Stretch"
+                            Width="800"
+                            x:Name="ArtsHub">
+                    <HubSection.Header>
+                        <TextBlock x:Uid="Section1Header"
+                                   FontStyle="Italic"
+                                   TextLineBounds="TrimToBaseline"
+                                   OpticalMarginAlignment="TrimSideBearings"
+                                   Text=" الفن "
+                                   FontWeight="ExtraBold"
+                                   FontSize="45"
+                                   Foreground="Black" />
+                    </HubSection.Header>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <GridView x:ConnectionId='9' x:Name="ArtsGridView"
+                                      AutomationProperties.AutomationId="ItemsGridView"
+                                      AutomationProperties.Name="Items"
+                                      TabIndex="1"
+                                      ScrollViewer.HorizontalScrollBarVisibility="Hidden"
+                                      ScrollViewer.HorizontalScrollMode="Disabled"
+                                      Grid.RowSpan="2"
+                                      MaxWidth="530"
+                                      Padding="116,136,116,46"
+                                      ItemsSource="{Binding Feeds[2].NewsItems}"
+                                      SelectionMode="None"
+                                      IsSwipeEnabled="false"
+                                      IsItemClickEnabled="True"
+                                                                        >
+                                <GridView.ItemTemplate>
+                                    <DataTemplate>
+                                        <Grid HorizontalAlignment="Left"
+                                              Width="200"
+                                              Height="200">
+                                      
+                                            <StackPanel VerticalAlignment="Stretch"
+                                                        Background="{ThemeResource ListViewItemOverlayBackgroundThemeBrush}">
+                                                <TextBlock Text="{Binding NewsTitle}"
+                                                           Foreground="{ThemeResource ListViewItemOverlayForegroundThemeBrush}"
+                                                           Style="{StaticResource BaseTextBlockStyle}"
+                                                           Height="40"
+                                                           Margin="15,0,15,0"
+                                                           FontWeight="SemiBold" />
+                                                <TextBlock Text="{Binding NewsPubDate}"
+                                                           Foreground="{ThemeResource ListViewItemOverlaySecondaryForegroundThemeBrush}"
+                                                           Style="{StaticResource BaseTextBlockStyle}"
+                                                           TextWrapping="NoWrap"
+                                                           Margin="15,0,15,10"
+                                                           FontSize="12" />
+                                                <Image Source="Assets/fan.png"
+                                                       Stretch="None"
+                                                       AutomationProperties.Name="{Binding Title}" />
+
+                                            </StackPanel>
+                                        </Grid>
+                                    </DataTemplate>
+                                </GridView.ItemTemplate>
+                            </GridView>
+                            <HyperlinkButton x:ConnectionId='10' x:Name="ArtsButton"
+                                             Foreground="Red"
+                                             Content="المزيد"
+                                             VerticalAlignment="Bottom"
+                                             FontSize="25"
+                                             Width="100"
+                                             Height="100"
+                                                                      />
+                        </StackPanel>
+                    </DataTemplate>
+                </HubSection>
+                <HubSection FlowDirection="RightToLeft"
+                            VerticalAlignment="Stretch"
+                            Width="800"
+                            x:Name="technologyHub">
+                    <HubSection.Header>
+                        <TextBlock x:Uid="Section1Header"
+                                   FontStyle="Italic"
+                                   TextLineBounds="TrimToBaseline"
+                                   OpticalMarginAlignment="TrimSideBearings"
+                                   Text=" تكنولوجيا "
+                                   FontWeight="ExtraBold"
+                                   FontSize="45"
+                                   Foreground="Black" />
+                    </HubSection.Header>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <GridView x:ConnectionId='7' x:Name="TechnologyGridView"
+                                      AutomationProperties.AutomationId="ItemsGridView"
+                                      AutomationProperties.Name="Items"
+                                      MaxWidth="530"
+                                      ScrollViewer.HorizontalScrollBarVisibility="Hidden"
+                                      ScrollViewer.HorizontalScrollMode="Disabled"
+                                      TabIndex="1"
+                                      Grid.RowSpan="2"
+                                      Padding="116,136,116,46"
+                                      ItemsSource="{Binding Feeds[4].NewsItems}"
+                                      SelectionMode="None"
+                                      IsSwipeEnabled="false"
+                                      IsItemClickEnabled="True"
+                                                                              >
+                                <GridView.ItemTemplate>
+                                    <DataTemplate>
+                                        <Grid HorizontalAlignment="Left"
+                                              Width="200"
+                                              Height="200">
+                                            <StackPanel VerticalAlignment="Stretch"
+                                                        Background="{ThemeResource ListViewItemOverlayBackgroundThemeBrush}">
+                                                <TextBlock Text="{Binding NewsTitle}"
+                                                           Foreground="{ThemeResource ListViewItemOverlayForegroundThemeBrush}"
+                                                           Style="{StaticResource BaseTextBlockStyle}"
+                                                           Height="40"
+                                                           Margin="15,0,15,0"
+                                                           FontWeight="SemiBold" />
+                                                <TextBlock Text="{Binding NewsPubDate}"
+                                                           Foreground="{ThemeResource ListViewItemOverlaySecondaryForegroundThemeBrush}"
+                                                           Style="{StaticResource BaseTextBlockStyle}"
+                                                           TextWrapping="NoWrap"
+                                                           Margin="15,0,15,10"
+                                                           FontSize="12" />
+                                                <Image Source="Assets/tech.jpg"
+                                                       Stretch="None"
+                                                       AutomationProperties.Name="{Binding Title}" />
+
+                                            </StackPanel>
+                                        </Grid>
+                                    </DataTemplate>
+                                </GridView.ItemTemplate>
+                            </GridView>
+                            <HyperlinkButton x:ConnectionId='8' x:Name="TechnologyButton"
+                                             Foreground="Red"
+                                             Content="المزيد"
+                                             VerticalAlignment="Bottom"
+                                             FontSize="25"
+                                             Width="100"
+                                             Height="100"
+                                                                            />
+                        </StackPanel>
+                    </DataTemplate>
+                </HubSection>
+                <HubSection FlowDirection="RightToLeft"
+                            VerticalAlignment="Stretch"
+                            Width="800"
+                            x:Name="WomanHub">
+                    <HubSection.Header>
+                        <TextBlock x:Uid="Section1Header"
+                                   FontStyle="Italic"
+                                   TextLineBounds="TrimToBaseline"
+                                   OpticalMarginAlignment="TrimSideBearings"
+                                   Text=" المرأة "
+                                   FontWeight="ExtraBold"
+                                   FontSize="45"
+                                   Foreground="Black" />
+                    </HubSection.Header>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <GridView x:ConnectionId='5' x:Name="WomanGridView"
+                                      AutomationProperties.AutomationId="ItemsGridView"
+                                      AutomationProperties.Name="Items"
+                                      ScrollViewer.HorizontalScrollBarVisibility="Hidden"
+                                      ScrollViewer.HorizontalScrollMode="Disabled"
+                                      
+                                      TabIndex="1"
+                                      Grid.RowSpan="2"
+                                      MaxWidth="530"
+                                      Padding="116,136,116,46"
+                                      ItemsSource="{Binding Feeds[5].NewsItems}"
+                                      SelectionMode="None"
+                                      IsSwipeEnabled="false"
+                                      IsItemClickEnabled="True"
+                                                                         >
+                                <GridView.ItemTemplate>
+                                    <DataTemplate>
+                                        <Grid HorizontalAlignment="Left"
+                                              Width="200"
+                                              Height="200">
+                                            <StackPanel VerticalAlignment="Stretch"
+                                                        Background="{ThemeResource ListViewItemOverlayBackgroundThemeBrush}">
+                                                <TextBlock Text="{Binding NewsTitle}"
+                                                           Foreground="{ThemeResource ListViewItemOverlayForegroundThemeBrush}"
+                                                           Style="{StaticResource BaseTextBlockStyle}"
+                                                           Height="40"
+                                                           Margin="15,0,15,0"
+                                                           FontWeight="SemiBold" />
+                                                <TextBlock Text="{Binding NewsPubDate}"
+                                                           Foreground="{ThemeResource ListViewItemOverlaySecondaryForegroundThemeBrush}"
+                                                           Style="{StaticResource BaseTextBlockStyle}"
+                                                           TextWrapping="NoWrap"
+                                                           Margin="15,0,15,10"
+                                                           FontSize="12" />
+                                                <Image Source="Assets/women.png"
+                                                       Stretch="None"
+                                                       AutomationProperties.Name="{Binding Title}" />
+
+                                            </StackPanel>
+                                        </Grid>
+                                    </DataTemplate>
+                                </GridView.ItemTemplate>
+                            </GridView>
+                            <HyperlinkButton x:ConnectionId='6' x:Name="WomanButtom"
+                                             Foreground="Red"
+                                             Content="المزيد"
+                                             FontSize="25"
+                                             Width="100"
+                                             Height="100"
+                                             VerticalAlignment="Bottom"
+                                                                       />
+                        </StackPanel>
+                    </DataTemplate>
+                </HubSection>
+                <HubSection FlowDirection="RightToLeft"
+                            VerticalAlignment="Stretch"
+                            Width="800"
+                            x:Name="EconomyHub">
+                    <HubSection.Header>
+                        <TextBlock x:Uid="Section1Header"
+                                   FontStyle="Italic"
+                                   TextLineBounds="TrimToBaseline"
+                                   OpticalMarginAlignment="TrimSideBearings"
+                                   Text=" الأقتصاد "
+                                   FontWeight="ExtraBold"
+                                   FontSize="45"
+                                   Foreground="Black" />
+                    </HubSection.Header>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <GridView x:ConnectionId='3' x:Name="EconomyGridView"
+                                      AutomationProperties.AutomationId="ItemsGridView"
+                                      AutomationProperties.Name="Items"
+                                      ScrollViewer.HorizontalScrollBarVisibility="Hidden"
+                                      ScrollViewer.HorizontalScrollMode="Disabled"
+                                      MaxWidth="530"
+                                      TabIndex="1"
+                                      Grid.RowSpan="2"
+                                      Padding="116,136,116,46"
+                                      ItemsSource="{Binding Feeds[6].NewsItems}"
+                                      SelectionMode="None"
+                                      IsSwipeEnabled="false"
+                                      IsItemClickEnabled="True"
+                                                                           >
+                                <GridView.ItemTemplate>
+                                    <DataTemplate>
+                                        <Grid HorizontalAlignment="Left"
+                                              Width="200"
+                                              Height="200">
+                                            <StackPanel VerticalAlignment="Stretch"
+                                                        Background="{ThemeResource ListViewItemOverlayBackgroundThemeBrush}">
+                                                <TextBlock Text="{Binding NewsTitle}"
+                                                           Foreground="{ThemeResource ListViewItemOverlayForegroundThemeBrush}"
+                                                           Style="{StaticResource BaseTextBlockStyle}"
+                                                           Height="40"
+                                                           Margin="15,0,15,0"
+                                                           FontWeight="SemiBold" />
+                                                <TextBlock Text="{Binding NewsPubDate}"
+                                                           Foreground="{ThemeResource ListViewItemOverlaySecondaryForegroundThemeBrush}"
+                                                           Style="{StaticResource BaseTextBlockStyle}"
+                                                           TextWrapping="NoWrap"
+                                                           Margin="15,0,15,10"
+                                                           FontSize="12" />
+                                                <Image Source="Assets/eco.png"
+                                                       Stretch="None"
+                                                       AutomationProperties.Name="{Binding Title}" />
+
+                                            </StackPanel>
+                                        </Grid>
+                                    </DataTemplate>
+                                </GridView.ItemTemplate>
+                            </GridView>
+                            <HyperlinkButton x:ConnectionId='4' x:Name="EconomyButton"
+                                             Foreground="Red"
+                                             Content="المزيد"
+                                             VerticalAlignment="Bottom"
+                                             FontSize="25"
+                                             Width="100"
+                                             Height="100"
+                                                                         />
+                        </StackPanel>
+                    </DataTemplate>
+                </HubSection>
+            </Hub>
+
+            <!--For windows 8.1-->
+            <ad:AdControl Margin="0,0,0,10" x:Name="adDuplexAd"
+                          Grid.Row="1"
+                          VerticalAlignment="Bottom"
+                          HorizontalAlignment="Center"
+                          AppId="161551"
+                          AppKey="e0e8582c-0769-4c5f-b027-9353bd521a26"
+                          Size="728x90" />
+        </Grid>
+    </Grid>
+</Page>
+

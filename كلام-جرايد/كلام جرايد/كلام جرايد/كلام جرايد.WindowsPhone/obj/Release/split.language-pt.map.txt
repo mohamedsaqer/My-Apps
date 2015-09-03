@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-pt"
+"ResourceDimensions"		"language-pt-pt"
+"ResourceDimensions"		"language-pt-br"
+
+[Files]
+"D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Release\split.language-pt.pri"			"resources.pri"

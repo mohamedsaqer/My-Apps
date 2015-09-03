@@ -1,0 +1,470 @@
+﻿<Page
+    FlowDirection="RightToLeft"
+    x:Class="كلام_جرايد.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:كلام_جرايد"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="#FF4F0808"
+    DataContext="{Binding Source={StaticResource FeedData}}"
+    xmlns:ad="using:AdDuplex.Universal.Controls.WinPhone.XAML">
+    <Page.BottomAppBar>
+        <CommandBar ClosedDisplayMode="Minimal">
+            <AppBarButton x:ConnectionId='1' Icon="Important"
+                          Label="عن التطبيق"
+                                                     />
+        </CommandBar>
+    </Page.BottomAppBar>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Background="#FF4F0808">
+            <TextBlock Margin="20,0,0,0" VerticalAlignment="Center" FontWeight="ExtraBold" Text="كلام جرايد " Foreground="White" HorizontalAlignment="Center"  FontSize="35"/>
+        </Grid>
+        <Grid Grid.Row="1" Background="WhiteSmoke">
+        <ProgressRing x:Name="stopring" Background="WhiteSmoke" Visibility="Visible" IsActive="True" Foreground="#FF4F0808" Height="150" Width="150" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <Grid x:Name="allnews" Background="WhiteSmoke">
+                <Pivot FlowDirection="RightToLeft">
+                    <PivotItem FlowDirection="RightToLeft" VerticalAlignment="Stretch" x:Name="latest">
+                        <PivotItem.Header>
+
+                            <TextBlock x:Uid="Section1Header"
+                                   FontWeight="Bold"
+                                   Text=" اخر الأخبار " />
+                        </PivotItem.Header>
+                        <ScrollViewer>
+                            <StackPanel Orientation="Vertical">
+                                <ListView x:ConnectionId='14'
+                                  x:Name="LatestNewsGridView"
+                                 
+                                  SelectionMode="None"
+                                  MaxHeight="500"
+                                  IsItemClickEnabled="True"
+                            ScrollViewer.VerticalScrollBarVisibility="Hidden"
+                            ScrollViewer.VerticalScrollMode="Disabled"
+                                                                          
+                                  ItemsSource="{Binding Feeds[0].NewsItems}">
+                                    <ListView.ItemTemplate>
+                                        <DataTemplate>
+                                            <Border Width="320"
+                                            Height="150"
+                                            BorderBrush="Brown"
+                                            BorderThickness="1"
+                                            Margin="5">
+
+                                                <StackPanel Orientation="Horizontal">
+                                                    <Image Source="Assets/last.png"
+                                                        />
+
+                                                    <StackPanel Orientation="Vertical" Margin="10,0,0,0">
+                                                        <TextBlock Text="{Binding NewsTitle}"
+                                                               TextWrapping="Wrap"
+                                                               Foreground="Black"
+                                                           Width="210"
+                                                               FontSize="20"
+                                                               FontWeight="SemiBold" />
+                                                        <TextBlock Text="{Binding NewsPubDate}"
+                                                               Foreground="Black"
+                                                               TextWrapping="Wrap"
+                                                               Margin="5"
+                                                               FontSize="12" />
+                                                    </StackPanel>
+                                                </StackPanel>
+                                            </Border>
+                                        </DataTemplate>
+                                    </ListView.ItemTemplate>
+                                </ListView>
+
+                                <HyperlinkButton x:ConnectionId='15' x:Name="LatestButton"
+                                             Foreground="Red"
+                                             Content="المزيد"
+                                             FontSize="30"
+                                             Width="100"
+                                             Height="100"
+                                                                        />
+                            </StackPanel>
+                        </ScrollViewer>
+                    </PivotItem>
+                    <PivotItem FlowDirection="RightToLeft"
+                            VerticalAlignment="Stretch"
+                             x:Name="PoliticsHub">
+                        <PivotItem.Header>
+                            <TextBlock x:Uid="Section1Header"
+                                   FontWeight="Bold"
+                                   Text=" السياسة  "
+                                    />
+                        </PivotItem.Header>
+                        <ScrollViewer>
+                            <StackPanel Orientation="Vertical">
+                                <ListView x:ConnectionId='12' x:Name="PoliticsGridView"
+                                      SelectionMode="None"
+                                      MaxHeight="500"
+                                      IsItemClickEnabled="True"
+                                      ScrollViewer.VerticalScrollBarVisibility="Hidden"
+                                      ScrollViewer.VerticalScrollMode="Disabled"
+                                                                            
+                                      ItemsSource="{Binding Feeds[3].NewsItems}">
+                                    <ListView.ItemTemplate>
+                                        <DataTemplate>
+                                            <Border Width="320"
+                                                Height="150"
+                                                BorderBrush="Brown"
+                                                BorderThickness="1"
+                                                Margin="5">
+
+                                                <StackPanel Orientation="Horizontal">
+                                                    <Image Source="Assets/11.png"
+                                                        />
+
+                                                    <StackPanel Orientation="Vertical" Margin="10,0,0,0">
+                                                        <TextBlock Text="{Binding NewsTitle}"
+                                                               TextWrapping="Wrap"
+                                                               Foreground="Black"
+                                                             Width="210"
+                                                               FontSize="20"
+                                                               FontWeight="SemiBold" />
+                                                        <TextBlock Text="{Binding NewsPubDate}"
+                                                               Foreground="Black"
+                                                               TextWrapping="Wrap"
+                                                               Margin="5"
+                                                               FontSize="12" />
+                                                    </StackPanel>
+                                                </StackPanel>
+                                            </Border>
+                                        </DataTemplate>
+                                    </ListView.ItemTemplate>
+                                </ListView>
+                                <HyperlinkButton x:ConnectionId='13' x:Name="PoliticesButton"
+                                             Foreground="Red"
+                                             Content="المزيد"
+                                             FontSize="30"
+                                             Width="100"
+                                             Height="100"
+                                                                           />
+                            </StackPanel>
+                        </ScrollViewer>
+
+                    </PivotItem>
+                    <PivotItem FlowDirection="RightToLeft"
+                            VerticalAlignment="Stretch"
+                           
+                            x:Name="SportsHub">
+                        <PivotItem.Header>
+                            <TextBlock x:Uid="Section1Header"
+                                   FontWeight="Bold"
+                                   Text=" الرياضة "
+                                  />
+                        </PivotItem.Header>
+                        <ScrollViewer>
+                            <StackPanel Orientation="Vertical">
+                                <ListView x:ConnectionId='10' x:Name="SportsGridView"
+                                      SelectionMode="None"
+                                      MaxHeight="500"
+                                      IsItemClickEnabled="True"
+                                      ScrollViewer.VerticalScrollBarVisibility="Hidden"
+                                      ScrollViewer.VerticalScrollMode="Disabled"
+                                                                          
+                                      ItemsSource="{Binding Feeds[1].NewsItems}">
+                                    <ListView.ItemTemplate>
+                                        <DataTemplate>
+                                            <Border Width="320"
+                                                Height="150"
+                                                BorderBrush="Brown"
+                                                BorderThickness="1"
+                                                Margin="5">
+
+                                                <StackPanel Orientation="Horizontal">
+                                                    <Image Source="Assets/sport.png"
+                                                        />
+
+                                                    <StackPanel Orientation="Vertical" Margin="10,0,0,0">
+                                                        <TextBlock Text="{Binding NewsTitle}"
+                                                               TextWrapping="Wrap"
+                                                               Foreground="Black"
+                                                         Width="210"
+                                                               FontSize="20"
+                                                               FontWeight="SemiBold" />
+                                                        <TextBlock Text="{Binding NewsPubDate}"
+                                                               Foreground="Black"
+                                                               TextWrapping="Wrap"
+                                                               Margin="5"
+                                                               FontSize="12" />
+                                                    </StackPanel>
+                                                </StackPanel>
+                                            </Border>
+                                        </DataTemplate>
+                                    </ListView.ItemTemplate>
+                                </ListView>
+                                <HyperlinkButton x:ConnectionId='11' x:Name="SportsButton"
+                                             Foreground="Red"
+                                             Content="المزيد"
+                                             FontSize="30"
+                                             Width="100"
+                                             Height="100"
+                                                                        />
+                            </StackPanel>
+                        </ScrollViewer>
+
+                    </PivotItem>
+                    <PivotItem FlowDirection="RightToLeft"
+                            VerticalAlignment="Stretch"
+                            
+                            x:Name="ArtsHub">
+                        <PivotItem.Header>
+                            <TextBlock x:Uid="Section1Header"
+                                   FontWeight="Bold"
+                                   Text=" الفن "
+                                   
+                           />
+                        </PivotItem.Header>
+                        <ScrollViewer>
+                            <StackPanel Orientation="Vertical">
+                                <ListView x:ConnectionId='8' x:Name="ArtsGridView"
+                                      SelectionMode="None"
+                                      MaxHeight="500"
+                                      IsItemClickEnabled="True"
+                                      ScrollViewer.VerticalScrollBarVisibility="Hidden"
+                                      ScrollViewer.VerticalScrollMode="Disabled"
+                                                                        
+                                      ItemsSource="{Binding Feeds[2].NewsItems}">
+                                    <ListView.ItemTemplate>
+                                        <DataTemplate>
+                                            <Border Width="320"
+                                                Height="150"
+                                                BorderBrush="Brown"
+                                                BorderThickness="1"
+                                                Margin="5">
+
+                                                <StackPanel Orientation="Horizontal">
+                                                    <Image Source="Assets/fan.png"
+                                                        />
+
+                                                    <StackPanel Orientation="Vertical" Margin="10,0,0,0">
+                                                        <TextBlock Text="{Binding NewsTitle}"
+                                                               TextWrapping="Wrap"
+                                                               Foreground="Black"
+                                                             Width="210"
+                                                               FontSize="20"
+                                                               FontWeight="SemiBold" />
+                                                        <TextBlock Text="{Binding NewsPubDate}"
+                                                               Foreground="Black"
+                                                               TextWrapping="Wrap"
+                                                               Margin="5"
+                                                               FontSize="12" />
+                                                    </StackPanel>
+                                                </StackPanel>
+                                            </Border>
+                                        </DataTemplate>
+                                    </ListView.ItemTemplate>
+                                </ListView>
+                                <HyperlinkButton x:ConnectionId='9' x:Name="ArtsButton"
+                                             Foreground="Red"
+                                             Content="المزيد"
+                                             FontSize="30"
+                                             Width="100"
+                                             Height="100"
+                                                                      />
+                            </StackPanel>
+                        </ScrollViewer>
+
+                    </PivotItem>
+                    <PivotItem FlowDirection="RightToLeft"
+                            VerticalAlignment="Stretch"
+                       
+                            x:Name="technologyHub">
+                        <PivotItem.Header>
+                            <TextBlock x:Uid="Section1Header"
+                               FontWeight="Bold"
+                                   Text=" تكنولوجيا "
+                                   />
+                        </PivotItem.Header>
+                        <ScrollViewer>
+                            <StackPanel Orientation="Vertical">
+                                <ListView x:ConnectionId='6' x:Name="TechnologyGridView"
+                                      SelectionMode="None"
+                                      MaxHeight="500"
+                                      IsItemClickEnabled="True"
+                                      ScrollViewer.VerticalScrollBarVisibility="Hidden"
+                                      ScrollViewer.VerticalScrollMode="Disabled"
+                                                                              
+                                      ItemsSource="{Binding Feeds[4].NewsItems}">
+                                    <ListView.ItemTemplate>
+                                        <DataTemplate>
+                                            <Border Width="320"
+                                                Height="150"
+                                                BorderBrush="Brown"
+                                                BorderThickness="1"
+                                                Margin="5">
+
+                                                <StackPanel Orientation="Horizontal">
+                                                    <Image Source="Assets/tech.jpg"
+                                                        />
+
+                                                    <StackPanel Orientation="Vertical" Margin="10,0,0,0">
+                                                        <TextBlock Text="{Binding NewsTitle}"
+                                                               TextWrapping="Wrap"
+                                                               Foreground="Black"
+                                                               Width="210"
+                                                               FontSize="20"
+                                                               FontWeight="SemiBold" />
+                                                        <TextBlock Text="{Binding NewsPubDate}"
+                                                               Foreground="Black"
+                                                               TextWrapping="Wrap"
+                                                               Margin="5"
+                                                               FontSize="12" />
+                                                    </StackPanel>
+                                                </StackPanel>
+                                            </Border>
+                                        </DataTemplate>
+                                    </ListView.ItemTemplate>
+                                </ListView>
+                                <HyperlinkButton x:ConnectionId='7' x:Name="TechnologyButton"
+                                             Foreground="Red"
+                                             Content="المزيد"
+                                             FontSize="30"
+                                             Width="100"
+                                             Height="100"
+                                                                            />
+                            </StackPanel>
+                        </ScrollViewer>
+
+
+                    </PivotItem>
+                    <PivotItem FlowDirection="RightToLeft"
+                            VerticalAlignment="Stretch"
+                           
+                            x:Name="WomanHub">
+                        <PivotItem.Header>
+                            <TextBlock x:Uid="Section1Header"
+                                   FontWeight="Bold"
+                                   Text=" المرأة "
+                                  
+                                   />
+                        </PivotItem.Header>
+                        <ScrollViewer>
+                            <StackPanel Orientation="Vertical">
+                                <ListView x:ConnectionId='4' x:Name="WomanGridView"
+                                      SelectionMode="None"
+                                      MaxHeight="500"
+                                      IsItemClickEnabled="True"
+                                      ScrollViewer.VerticalScrollBarVisibility="Hidden"
+                                      ScrollViewer.VerticalScrollMode="Disabled"
+                                                                         
+                                      ItemsSource="{Binding Feeds[5].NewsItems}">
+                                    <ListView.ItemTemplate>
+                                        <DataTemplate>
+                                            <Border Width="320"
+                                                Height="150"
+                                                BorderBrush="Brown"
+                                                BorderThickness="1"
+                                                Margin="5">
+
+                                                <StackPanel Orientation="Horizontal">
+                                                    <Image Source="Assets/women.png"
+                                                        />
+
+                                                    <StackPanel Orientation="Vertical" Margin="10,0,0,0">
+                                                        <TextBlock Text="{Binding NewsTitle}"
+                                                               TextWrapping="Wrap"
+                                                               Foreground="Black"
+                                                               FontSize="20"
+                                                               Width="210"
+                                                               FontWeight="SemiBold" />
+                                                        <TextBlock Text="{Binding NewsPubDate}"
+                                                               Foreground="Black"
+                                                               TextWrapping="Wrap"
+                                                               Margin="5"
+                                                               FontSize="12" />
+                                                    </StackPanel>
+                                                </StackPanel>
+                                            </Border>
+                                        </DataTemplate>
+                                    </ListView.ItemTemplate>
+                                </ListView>
+                                <HyperlinkButton x:ConnectionId='5' x:Name="WomanButtom"
+                                             Foreground="Red"
+                                             Content="المزيد"
+                                             FontSize="30"
+                                             Width="100"
+                                             Height="100"
+                                                                       />
+                            </StackPanel>
+                        </ScrollViewer>
+
+                    </PivotItem>
+                    <PivotItem FlowDirection="RightToLeft"
+                            VerticalAlignment="Stretch"
+                          
+                            x:Name="EconomyHub">
+                        <PivotItem.Header>
+                            <TextBlock x:Uid="Section1Header"
+                                  FontWeight="Bold"
+                                   Text=" الأقتصاد "
+                                    />
+                        </PivotItem.Header>
+                        <ScrollViewer>
+                            <StackPanel Orientation="Vertical">
+                                <ListView x:ConnectionId='2' x:Name="EconomyGridView"
+                                      SelectionMode="None"
+                                      MaxHeight="500"
+                                      IsItemClickEnabled="True"
+                                      ScrollViewer.VerticalScrollBarVisibility="Hidden"
+                                      ScrollViewer.VerticalScrollMode="Disabled"
+                                                                           
+                                      ItemsSource="{Binding Feeds[6].NewsItems}">
+                                    <ListView.ItemTemplate>
+                                        <DataTemplate>
+                                            <Border Width="320"
+                                                Height="150"
+                                                BorderBrush="Brown"
+                                                BorderThickness="1"
+                                                Margin="5">
+
+                                                <StackPanel Orientation="Horizontal">
+                                                    <Image Source="Assets/eco.png"
+                                                        />
+
+                                                    <StackPanel Orientation="Vertical" Margin="10,0,0,0">
+                                                        <TextBlock Text="{Binding NewsTitle}"
+                                                               TextWrapping="Wrap"
+                                                               Foreground="Black"
+                                                               FontSize="20"
+                                                               Width="210"
+                                                               FontWeight="SemiBold" />
+                                                        <TextBlock Text="{Binding NewsPubDate}"
+                                                               Foreground="Black"
+                                                               TextWrapping="Wrap"
+                                                               Margin="5"
+                                                               FontSize="12" />
+                                                    </StackPanel>
+                                                </StackPanel>
+                                            </Border>
+                                        </DataTemplate>
+                                    </ListView.ItemTemplate>
+                                </ListView>
+                                <HyperlinkButton x:ConnectionId='3' x:Name="EconomyButton"
+                                             Foreground="Red"
+                                             Content="المزيد"
+                                             FontSize="30"
+                                             Width="100"
+                                             Height="100"
+                                                                         />
+                            </StackPanel>
+                        </ScrollViewer>
+
+                    </PivotItem>
+                </Pivot>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="2">
+            <!--For windowsphone 8.1-->
+            <ad:AdControl AdUnitId="161683" AppKey="34b54e16-20fd-45d2-b99b-fcc4036abf7c" />
+        </Grid>
+    </Grid>
+</Page>
+

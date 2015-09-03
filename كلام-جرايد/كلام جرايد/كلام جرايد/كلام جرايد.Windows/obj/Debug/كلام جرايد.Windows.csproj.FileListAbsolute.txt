@@ -1,0 +1,206 @@
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\App.xbf
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\MainPage.xbf
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\NewsPage.xbf
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\NewsWebView.xbf
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\كلام جرايد.Windows.xr.xml
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\كلام جرايد.Windows.exe
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\كلام جرايد.Windows.pdb
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\resources.pri
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\AppxManifest.xml
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\كلام جرايد.Windows.build.appxrecipe
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\AdDuplex.Universal.Controls.Win.XAML.dll
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\AdDuplex.Universal.Win.WinRT.winmd
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\App.g.i.cs
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\App.g.cs
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\MainPage.g.i.cs
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\MainPage.g.cs
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsPage.g.i.cs
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsPage.g.cs
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsWebView.g.i.cs
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsWebView.g.cs
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\XamlTypeInfo.g.cs
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\App.xaml
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsPage.xaml
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsWebView.xaml
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\App.xbf
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsPage.xbf
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsWebView.xbf
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\XamlSaveStateFile.xml
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\MainPage.xaml
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\MainPage.xbf
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\كلام جرايد.Windows.exe
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\كلام جرايد.Windows.pdb
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\كلام جرايد.Windows.csproj.GenerateResource.Cache
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\priconfig.xml
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\priconfig.xml.intermediate
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\layout.resfiles
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\layout.resfiles.intermediate
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\resources.resfiles
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\resources.resfiles.intermediate
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\pri.resfiles
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\pri.resfiles.intermediate
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\qualifiers.txt
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\qualifiers.txt.intermediate
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\كلام جرايد.Windows.exe
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\كلام جرايد.Windows.pdb
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\App.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\MainPage.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\NewsPage.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\NewsWebView.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\كلام جرايد.Windows.xr.xml
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\كلام جرايد.Windows.exe
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\كلام جرايد.Windows.pdb
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\resources.pri
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\AppxManifest.xml
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\كلام جرايد.Windows.build.appxrecipe
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\AdDuplex.Universal.Controls.Win.XAML.dll
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\AdDuplex.Universal.Win.WinRT.winmd
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\Microsoft.Advertising.WinRT.UI.winmd
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\Microsoft.Advertising.WinRT.UI.xml
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\MicrosoftAdvertising.winmd
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\MicrosoftAdvertising.xml
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\App.g.i.cs
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\App.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\MainPage.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsPage.g.i.cs
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsPage.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsWebView.g.i.cs
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsWebView.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\App.xaml
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsPage.xaml
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsWebView.xaml
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\App.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsPage.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsWebView.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\MainPage.xaml
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\MainPage.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\كلام جرايد.Windows.csproj.GenerateResource.Cache
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\priconfig.xml
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\layout.resfiles
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\resources.resfiles
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\pri.resfiles
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\qualifiers.txt
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\about.g.i.cs
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\about.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\about.xaml
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\about.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\about.xbf
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\كلام جرايد.Windows.exe
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\كلام جرايد.Windows.pdb
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\App.xbf
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\about.xbf
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\MainPage.xbf
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\NewsPage.xbf
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\NewsWebView.xbf
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\كلام جرايد.Windows.xr.xml
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\كلام جرايد.Windows.exe
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\كلام جرايد.Windows.pdb
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\resources.pri
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\كلام جرايد.Windows.build.appxrecipe
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\AdDuplex.Universal.Controls.Win.XAML.dll
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\AdDuplex.Universal.Win.WinRT.winmd
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\Microsoft.Advertising.WinRT.UI.winmd
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\Microsoft.Advertising.WinRT.UI.xml
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\MicrosoftAdvertising.winmd
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\MicrosoftAdvertising.xml
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\App.g.i.cs
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\App.g.cs
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\about.g.i.cs
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\about.g.cs
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\MainPage.g.cs
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsPage.g.i.cs
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsPage.g.cs
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsWebView.g.i.cs
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsWebView.g.cs
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\App.xaml
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\about.xaml
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\MainPage.xaml
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsPage.xaml
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsWebView.xaml
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\App.xbf
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\about.xbf
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\MainPage.xbf
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsPage.xbf
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsWebView.xbf
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\كلام جرايد.Windows.csproj.GenerateResource.Cache
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\priconfig.xml
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\layout.resfiles
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\resources.resfiles
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\pri.resfiles
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\qualifiers.txt
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\ProjectArchitectures.txt
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\App.xbf
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\about.xbf
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\MainPage.xbf
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\NewsPage.xbf
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\NewsWebView.xbf
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\كلام جرايد.Windows.xr.xml
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\كلام جرايد.Windows.exe
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\كلام جرايد.Windows.pdb
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\resources.pri
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\AppxManifest.xml
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\كلام جرايد.Windows.build.appxrecipe
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\AdDuplex.Universal.Controls.Win.XAML.winmd
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\AdDuplex.Universal.Win.WinRT.winmd
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\Microsoft.Advertising.WinRT.UI.winmd
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\Microsoft.Advertising.WinRT.UI.xml
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\MicrosoftAdvertising.winmd
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\bin\Debug\MicrosoftAdvertising.xml
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\App.g.i.cs
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\App.g.cs
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\about.g.i.cs
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\about.g.cs
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\MainPage.g.i.cs
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\MainPage.g.cs
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsPage.g.i.cs
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsPage.g.cs
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsWebView.g.i.cs
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsWebView.g.cs
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\XamlTypeInfo.g.cs
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\App.xaml
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\about.xaml
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsPage.xaml
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsWebView.xaml
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\App.xbf
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\about.xbf
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsPage.xbf
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\NewsWebView.xbf
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\XamlSaveStateFile.xml
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\MainPage.xaml
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\MainPage.xbf
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\كلام جرايد.Windows.exe
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\كلام جرايد.Windows.pdb
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\priconfig.xml
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\priconfig.xml.intermediate
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\layout.resfiles
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\layout.resfiles.intermediate
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\resources.resfiles
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\resources.resfiles.intermediate
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\pri.resfiles
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\pri.resfiles.intermediate
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\qualifiers.txt
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\qualifiers.txt.intermediate
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.Windows\obj\Debug\ProjectArchitectures.txt

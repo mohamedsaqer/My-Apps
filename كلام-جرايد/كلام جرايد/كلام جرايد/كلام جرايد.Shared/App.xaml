@@ -1,0 +1,14 @@
+﻿<Application
+    x:Class="كلام_جرايد.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:كلام_جرايد"
+    xmlns:ManiVM="using:كلام_جرايد.Model">
+    <Application.Resources>
+        <ManiVM:AllNewsLoad x:Key="FeedData" />
+        <SolidColorBrush x:Key="PivotHeaderForegroundUnselectedBrush" Color="Gray" Opacity="0.7"/>
+        <SolidColorBrush x:Key="PivotHeaderForegroundSelectedBrush" Color="Black" />
+
+    </Application.Resources>
+
+</Application>

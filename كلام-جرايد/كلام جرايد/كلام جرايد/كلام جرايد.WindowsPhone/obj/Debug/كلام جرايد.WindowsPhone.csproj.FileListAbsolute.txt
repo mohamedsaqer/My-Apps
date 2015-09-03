@@ -1,0 +1,197 @@
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\App.xbf
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\MainPage.xbf
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\كلام جرايد.WindowsPhone.xr.xml
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\كلام جرايد.WindowsPhone.exe
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\كلام جرايد.WindowsPhone.pdb
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\resources.pri
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\AppxManifest.xml
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\كلام جرايد.WindowsPhone.build.appxrecipe
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\App.g.i.cs
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\App.g.cs
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\MainPage.g.i.cs
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\MainPage.g.cs
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\App.xaml
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\MainPage.xaml
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\App.xbf
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\MainPage.xbf
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\كلام جرايد.WindowsPhone.exe
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\كلام جرايد.WindowsPhone.pdb
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\priconfig.xml
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\layout.resfiles
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\resources.resfiles
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\pri.resfiles
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\qualifiers.txt
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\rehab mustafa\documents\visual studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\App.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\كلام جرايد.WindowsPhone.xr.xml
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\كلام جرايد.WindowsPhone.exe
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\كلام جرايد.WindowsPhone.pdb
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\resources.pri
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\كلام جرايد.WindowsPhone.build.appxrecipe
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\App.xaml
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\App.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\كلام جرايد.WindowsPhone.exe
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\كلام جرايد.WindowsPhone.pdb
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\about_page.g.i.cs
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\about_page.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\NewsPage.g.i.cs
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\NewsPage.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\NewsWebView.g.i.cs
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\NewsWebView.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\NewsPage.xaml
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\NewsWebView.xaml
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\NewsPage.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\NewsWebView.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\about_page.xaml
+C:\Users\ENG MOHAMED EL_SAQER\Documents\Visual Studio 2013\Projects\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\about_page.xbf
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\about_page.g.i.cs
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\about_page.g.cs
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\NewsPage.g.i.cs
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\NewsPage.g.cs
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\NewsWebView.g.i.cs
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\NewsWebView.g.cs
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\about_page.xaml
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\NewsPage.xaml
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\NewsWebView.xaml
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\about_page.xbf
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\NewsPage.xbf
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\NewsWebView.xbf
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\about_page.xbf
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\newsLink.xbf
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\NewsPage.xbf
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\NewsWebView.xbf
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\كلام جرايد.WindowsPhone.xr.xml
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\كلام جرايد.WindowsPhone.exe
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\كلام جرايد.WindowsPhone.pdb
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\كلام جرايد.WindowsPhone.build.appxrecipe
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\AdDuplex.Universal.Controls.WinPhone.XAML.dll
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\AdDuplex.Universal.WinPhone.WinRT.winmd
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Common.winmd
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Common.xml
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Display.winmd
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Display.xml
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.UI.winmd
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\newsLink.g.i.cs
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\newsLink.g.cs
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\newsLink.xaml
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\newsLink.xbf
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\كلام جرايد.WindowsPhone.exe
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\كلام جرايد.WindowsPhone.pdb
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\كلام جرايد.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Rehab Mustafa\Desktop\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\App.xbf
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\about_page.xbf
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\MainPage.xbf
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\newsLink.xbf
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\NewsPage.xbf
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\NewsWebView.xbf
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\كلام جرايد.WindowsPhone.xr.xml
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\كلام جرايد.WindowsPhone.exe
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\كلام جرايد.WindowsPhone.pdb
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\resources.pri
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\AppxManifest.xml
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\كلام جرايد.WindowsPhone.build.appxrecipe
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\AdDuplex.Universal.Controls.WinPhone.XAML.winmd
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\AdDuplex.Universal.WinPhone.WinRT.winmd
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Common.winmd
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Common.xml
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Display.winmd
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Display.xml
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.UI.winmd
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\App.g.i.cs
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\App.g.cs
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\about_page.g.i.cs
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\about_page.g.cs
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\MainPage.g.i.cs
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\MainPage.g.cs
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\newsLink.g.i.cs
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\newsLink.g.cs
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\NewsPage.g.i.cs
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\NewsPage.g.cs
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\NewsWebView.g.i.cs
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\NewsWebView.g.cs
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\App.xaml
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\about_page.xaml
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\newsLink.xaml
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\NewsPage.xaml
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\NewsWebView.xaml
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\App.xbf
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\about_page.xbf
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\newsLink.xbf
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\NewsPage.xbf
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\NewsWebView.xbf
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\MainPage.xaml
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\MainPage.xbf
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\كلام جرايد.WindowsPhone.exe
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\كلام جرايد.WindowsPhone.pdb
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\priconfig.xml
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\layout.resfiles
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\resources.resfiles
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\pri.resfiles
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\qualifiers.txt
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\obj\Debug\ProjectArchitectures.txt

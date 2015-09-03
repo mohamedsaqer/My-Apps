@@ -1,0 +1,4 @@
+MainPackage=D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Release\كلام جرايد.WindowsPhone_1.1.0.6_Bundle\كلام جرايد.WindowsPhone_1.1.0.6_AnyCPU.appx
+SymbolPackage=D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\AppPackages\كلام جرايد.WindowsPhone_1.1.0.6_Test\كلام جرايد.WindowsPhone_1.1.0.6_AnyCPU.appxsym
+ResourcePack=D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Release\كلام جرايد.WindowsPhone_1.1.0.6_Bundle\كلام جرايد.WindowsPhone_1.1.0.6_scale-100.appx
+ResourcePack=D:\Assembly Line 5-1 Program\My Apps\كلام جرايد\كلام-جرايد\كلام جرايد\كلام جرايد\كلام جرايد.WindowsPhone\bin\Release\كلام جرايد.WindowsPhone_1.1.0.6_Bundle\كلام جرايد.WindowsPhone_1.1.0.6_scale-140.appx
