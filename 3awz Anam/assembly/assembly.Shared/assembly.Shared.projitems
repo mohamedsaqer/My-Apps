@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>38143c07-54ee-453e-af3b-5238703df4c3</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>assembly</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="$(MSBuildThisFileDirectory)App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Model\Hotels.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)RootObject.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\1.1.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\1.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\2.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\3.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\4.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\alex\1.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\alex\10.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\alex\11.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\alex\12.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\alex\13.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\alex\14.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\alex\15.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\alex\16.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\alex\17.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\alex\2.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\alex\3.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\alex\4.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\alex\5.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\alex\6.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\alex\7.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\alex\8.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\alex\9.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\cairo\1.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\cairo\10.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\cairo\11.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\cairo\12.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\cairo\13.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\cairo\14.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\cairo\2.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\cairo\3.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\cairo\4.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\cairo\5.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\cairo\6.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\cairo\7.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\cairo\8.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\cairo\9.jpeg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\luxor\1.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\luxor\10.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\luxor\11.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\luxor\12.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\luxor\13.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\luxor\14.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\luxor\15.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\luxor\16.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\luxor\17.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\luxor\18.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\luxor\19.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\luxor\2.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\luxor\20.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\luxor\21.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\luxor\22.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\luxor\23.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\luxor\24.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\luxor\25.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\luxor\3.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\luxor\4.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\luxor\5.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\luxor\6.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\luxor\7.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\luxor\8.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\luxor\9.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sharm\1.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sharm\10.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sharm\11.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sharm\12.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sharm\13.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sharm\14.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sharm\15.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sharm\16.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sharm\2.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sharm\3.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sharm\4.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sharm\5.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sharm\6.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sharm\7.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sharm\8.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\sharm\9.jpg" />
+  </ItemGroup>
+</Project>

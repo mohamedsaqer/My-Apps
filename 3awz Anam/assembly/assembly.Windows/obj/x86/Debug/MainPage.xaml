@@ -1,0 +1,96 @@
+﻿<Page
+    x:Class="assembly.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:assembly"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:bm="using:Bing.Maps"
+    xmlns:ad="using:AdDuplex.Universal.Controls.Win.XAML">
+    <Page.BottomAppBar>
+        <CommandBar>
+            <CommandBar.PrimaryCommands>
+                <AppBarButton x:ConnectionId='1' Icon="Directions" Label="The Nearest Hotel to You"                                  />
+                <AppBarButton x:ConnectionId='2' x:Name="Share" Icon="ReShare"                     Label="Share"/>
+            </CommandBar.PrimaryCommands>
+            <CommandBar.SecondaryCommands>
+                <AppBarButton x:ConnectionId='3' x:Uid="Rate"                            Icon="LikeDislike" Label="Rate" />
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+        
+    <Hub>
+        <Hub.Header>3awz Anam</Hub.Header>
+            <HubSection Width="900">
+            <HubSection.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/2.jpg"/>
+            </HubSection.Background>
+            </HubSection>
+        <HubSection Width="1000" x:Name="showlist">
+            <HubSection.Background>
+                <ImageBrush ImageSource="Assets/1.1.jpg"/>
+            </HubSection.Background>
+            <DataTemplate>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="50"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="auto"/>
+                    </Grid.RowDefinitions>
+                    <!--<StackPanel Orientation="Horizontal">-->
+                    <SearchBox x:ConnectionId='4' 
+                        x:Name="mySearchBox" 
+                        PlaceholderText="Search" 
+                        Grid.Row="0" 
+                      
+                        Width="200" 
+                        Height="35" 
+                        VerticalAlignment="Top" 
+                        HorizontalAlignment="Right" 
+                                                                  
+                        SearchHistoryEnabled="False" />
+                    <!--For windows 8.1-->
+                    <ad:AdControl   x:Name="adDuplexAd"
+                                    AppId="150895"
+                                    Size="728x90"
+                                    Grid.Row="2"/>
+                    <GridView x:ConnectionId='5' x:Name="showlist"
+                  Grid.Row="1" Foreground="Red"
+                  HorizontalAlignment="Left" 
+                  VerticalAlignment="Center" 
+                  IsItemClickEnabled="True" 
+                                                
+                  ItemsSource="{Binding}">
+                        <GridView.ItemTemplate>
+                            <DataTemplate>
+                                <Grid Height="200" Width="250" 
+                          HorizontalAlignment="Center" 
+                          VerticalAlignment="Center"  >
+                                    <Grid.Background>
+                                        <ImageBrush Stretch="Fill" ImageSource="{Binding Photo}"/>
+                                    </Grid.Background>
+                                    <Border VerticalAlignment="Bottom" HorizontalAlignment="Center" Height="60" Width="250" Background="Tan">
+                                        <TextBlock Text="{Binding Name}" 
+                                   TextWrapping="Wrap"
+                                   Foreground="Black" 
+                                   FontSize="16" 
+                                   Height="100"
+                                   Width="200"
+                                   FontWeight="Bold"
+                                   HorizontalAlignment="Left"
+                                   VerticalAlignment="Center" 
+                                   Margin="2,0,5,-35" />
+                                    </Border>
+                                </Grid>
+                            </DataTemplate>
+                        </GridView.ItemTemplate>
+                    </GridView>
+                    <!--</StackPanel>-->
+                </Grid>
+            </DataTemplate>
+        </HubSection>
+    </Hub>
+    
+</Page>
+

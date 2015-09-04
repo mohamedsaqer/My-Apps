@@ -1,0 +1,406 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HP</Machine>
+    <WindowsUser>SaQeR</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>9ae7ac55-7ca7-4a33-ab0f-66468503d78a</PackageIdentityName>
+    <IntermediateOutputPath>D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\bin\Debug\assembly.WindowsPhone.exe">
+      <PackagePath>assembly.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\AdDuplex.WinPhone.Extension\9.0.0.4\References\CommonConfiguration\neutral\AdDuplex.Universal.Controls.WinPhone.XAML.winmd">
+      <PackagePath>AdDuplex.Universal.Controls.WinPhone.XAML.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\AdDuplex.WinPhone.Extension\9.0.0.4\References\CommonConfiguration\neutral\AdDuplex.Universal.WinPhone.WinRT.winmd">
+      <PackagePath>AdDuplex.Universal.WinPhone.WinRT.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.Common.winmd">
+      <PackagePath>Microsoft.Advertising.Mobile.Common.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.Display.winmd">
+      <PackagePath>Microsoft.Advertising.Mobile.Display.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI.winmd">
+      <PackagePath>Microsoft.Advertising.Mobile.UI.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI\Web\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.Mobile.UI\Web\bootstrap.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\AdDuplex.WinPhone.Extension\9.0.0.4\Redist\CommonConfiguration\neutral\AdDuplex.Universal.Controls.WinPhone.XAML\Themes\Generic.xbf">
+      <PackagePath>AdDuplex.Universal.Controls.WinPhone.XAML\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.Mobile.UI\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\AdDuplex.WinPhone.Extension\9.0.0.4\Redist\CommonConfiguration\neutral\AdDuplex.Universal.Controls.WinPhone.XAML\InterstitialUserControl.xbf">
+      <PackagePath>AdDuplex.Universal.Controls.WinPhone.XAML\InterstitialUserControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Advertising.Mobile.Display\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI\Web\Ormma.js">
+      <PackagePath>Microsoft.Advertising.Mobile.UI\Web\Ormma.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\Assets\Assembly 5-1.png">
+      <PackagePath>Assets\Assembly 5-1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\Assets\FBL.png">
+      <PackagePath>Assets\FBL.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\Assets\Logo Icon 1.png">
+      <PackagePath>Assets\Logo Icon 1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\Assets\Logo Icon2.png">
+      <PackagePath>Assets\Logo Icon2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\Assets\logo106x106.png">
+      <PackagePath>Assets\logo106x106.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\Assets\logo1152x1920.png">
+      <PackagePath>Assets\logo1152x1920.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\Assets\logo120x120.png">
+      <PackagePath>Assets\logo120x120.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\Assets\logo150x150.png">
+      <PackagePath>Assets\logo150x150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\Assets\logo170x170.png">
+      <PackagePath>Assets\logo170x170.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\Assets\logo310x150.png">
+      <PackagePath>Assets\logo310x150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\Assets\logo360x360.png">
+      <PackagePath>Assets\logo360x360.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\Assets\logo44x44.png">
+      <PackagePath>Assets\logo44x44.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\Assets\logo71x71.png">
+      <PackagePath>Assets\logo71x71.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\Assets\logo744x360.png">
+      <PackagePath>Assets\logo744x360.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\Assets\TL.png">
+      <PackagePath>Assets\TL.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\StoreManifest.xml">
+      <PackagePath>StoreManifest.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\1.1.jpg">
+      <PackagePath>Assets\1.1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\2.jpg">
+      <PackagePath>Assets\2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\3.jpg">
+      <PackagePath>Assets\3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\1.jpg">
+      <PackagePath>Assets\luxor\1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\10.jpg">
+      <PackagePath>Assets\luxor\10.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\11.jpg">
+      <PackagePath>Assets\luxor\11.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\12.jpg">
+      <PackagePath>Assets\luxor\12.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\13.jpg">
+      <PackagePath>Assets\luxor\13.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\14.jpg">
+      <PackagePath>Assets\luxor\14.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\15.jpg">
+      <PackagePath>Assets\luxor\15.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\16.jpg">
+      <PackagePath>Assets\luxor\16.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\17.jpg">
+      <PackagePath>Assets\luxor\17.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\18.jpg">
+      <PackagePath>Assets\luxor\18.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\19.jpg">
+      <PackagePath>Assets\luxor\19.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\2.jpg">
+      <PackagePath>Assets\luxor\2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\20.jpg">
+      <PackagePath>Assets\luxor\20.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\21.jpg">
+      <PackagePath>Assets\luxor\21.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\22.jpg">
+      <PackagePath>Assets\luxor\22.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\23.jpg">
+      <PackagePath>Assets\luxor\23.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\24.jpg">
+      <PackagePath>Assets\luxor\24.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\25.jpg">
+      <PackagePath>Assets\luxor\25.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\3.jpg">
+      <PackagePath>Assets\luxor\3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\4.jpg">
+      <PackagePath>Assets\luxor\4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\5.jpg">
+      <PackagePath>Assets\luxor\5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\6.jpg">
+      <PackagePath>Assets\luxor\6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\7.jpg">
+      <PackagePath>Assets\luxor\7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\8.jpg">
+      <PackagePath>Assets\luxor\8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\9.jpg">
+      <PackagePath>Assets\luxor\9.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\1.jpg">
+      <PackagePath>Assets\sharm\1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\10.jpg">
+      <PackagePath>Assets\sharm\10.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\11.jpg">
+      <PackagePath>Assets\sharm\11.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\12.jpg">
+      <PackagePath>Assets\sharm\12.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\13.jpg">
+      <PackagePath>Assets\sharm\13.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\14.jpg">
+      <PackagePath>Assets\sharm\14.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\15.jpg">
+      <PackagePath>Assets\sharm\15.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\16.jpg">
+      <PackagePath>Assets\sharm\16.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\2.jpg">
+      <PackagePath>Assets\sharm\2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\3.jpg">
+      <PackagePath>Assets\sharm\3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\4.jpg">
+      <PackagePath>Assets\sharm\4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\5.jpg">
+      <PackagePath>Assets\sharm\5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\6.jpg">
+      <PackagePath>Assets\sharm\6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\7.jpg">
+      <PackagePath>Assets\sharm\7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\8.jpg">
+      <PackagePath>Assets\sharm\8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\9.jpg">
+      <PackagePath>Assets\sharm\9.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\1.jpeg">
+      <PackagePath>Assets\1.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\4.jpeg">
+      <PackagePath>Assets\4.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\1.jpeg">
+      <PackagePath>Assets\alex\1.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\10.jpeg">
+      <PackagePath>Assets\alex\10.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\11.jpeg">
+      <PackagePath>Assets\alex\11.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\12.jpeg">
+      <PackagePath>Assets\alex\12.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\13.jpeg">
+      <PackagePath>Assets\alex\13.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\14.jpeg">
+      <PackagePath>Assets\alex\14.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\15.jpeg">
+      <PackagePath>Assets\alex\15.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\16.jpeg">
+      <PackagePath>Assets\alex\16.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\17.jpeg">
+      <PackagePath>Assets\alex\17.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\2.jpeg">
+      <PackagePath>Assets\alex\2.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\3.jpeg">
+      <PackagePath>Assets\alex\3.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\4.jpeg">
+      <PackagePath>Assets\alex\4.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\5.jpeg">
+      <PackagePath>Assets\alex\5.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\6.jpeg">
+      <PackagePath>Assets\alex\6.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\7.jpeg">
+      <PackagePath>Assets\alex\7.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\8.jpeg">
+      <PackagePath>Assets\alex\8.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\9.jpeg">
+      <PackagePath>Assets\alex\9.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\cairo\1.jpeg">
+      <PackagePath>Assets\cairo\1.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\cairo\10.jpeg">
+      <PackagePath>Assets\cairo\10.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\cairo\11.jpeg">
+      <PackagePath>Assets\cairo\11.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\cairo\12.jpeg">
+      <PackagePath>Assets\cairo\12.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\cairo\13.jpeg">
+      <PackagePath>Assets\cairo\13.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\cairo\14.jpeg">
+      <PackagePath>Assets\cairo\14.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\cairo\2.jpeg">
+      <PackagePath>Assets\cairo\2.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\cairo\3.jpeg">
+      <PackagePath>Assets\cairo\3.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\cairo\4.jpeg">
+      <PackagePath>Assets\cairo\4.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\cairo\5.jpeg">
+      <PackagePath>Assets\cairo\5.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\cairo\6.jpeg">
+      <PackagePath>Assets\cairo\6.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\cairo\7.jpeg">
+      <PackagePath>Assets\cairo\7.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\cairo\8.jpeg">
+      <PackagePath>Assets\cairo\8.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\cairo\9.jpeg">
+      <PackagePath>Assets\cairo\9.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\bin\Debug\about_page.xbf">
+      <PackagePath>about_page.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\bin\Debug\HotelPage.xbf">
+      <PackagePath>HotelPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\bin\Debug\MapPage.xbf">
+      <PackagePath>MapPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\bin\Debug\WebPageView.xbf">
+      <PackagePath>WebPageView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\bin\Debug\assembly.WindowsPhone.xr.xml">
+      <PackagePath>assembly.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

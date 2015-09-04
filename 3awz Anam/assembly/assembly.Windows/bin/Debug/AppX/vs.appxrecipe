@@ -1,0 +1,478 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HP</Machine>
+    <WindowsUser>SaQeR</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f284efb7-a4c8-42ac-abf7-9c4ebe7e10f0</PackageIdentityName>
+    <IntermediateOutputPath>D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>4D9D56D6023F6E25C4FA416D221A8B4238A9F50A6454B22E8AFB5DAB008479FC</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f284efb7-a4c8-42ac-abf7-9c4ebe7e10f0_1.0.0.0_neutral__qg5cpme2007we</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f284efb7-a4c8-42ac-abf7-9c4ebe7e10f0_qg5cpme2007we!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f284efb7-a4c8-42ac-abf7-9c4ebe7e10f0</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mohamed</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-04T03:09:19.720</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\bin\Debug\assembly.Windows.exe">
+      <PackagePath>assembly.Windows.exe</PackagePath>
+      <Modified>2015-05-06T18:24:12.533</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\AdDuplex.Win.Extension\9.0.0.4\References\CommonConfiguration\neutral\AdDuplex.Universal.Controls.Win.XAML.winmd">
+      <PackagePath>AdDuplex.Universal.Controls.Win.XAML.winmd</PackagePath>
+      <Modified>2015-04-20T12:24:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\AdDuplex.Win.Extension\9.0.0.4\References\CommonConfiguration\neutral\AdDuplex.Universal.Win.WinRT.winmd">
+      <PackagePath>AdDuplex.Universal.Win.WinRT.winmd</PackagePath>
+      <Modified>2015-04-20T12:24:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.winmd</PackagePath>
+      <Modified>2014-04-28T15:27:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd">
+      <PackagePath>MicrosoftAdvertising.winmd</PackagePath>
+      <Modified>2014-04-28T15:27:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf</PackagePath>
+      <Modified>2014-04-28T15:27:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\AdDuplex.Win.Extension\9.0.0.4\Redist\CommonConfiguration\neutral\AdDuplex.Universal.Controls.Win.XAML\Themes\Generic.xbf">
+      <PackagePath>AdDuplex.Universal.Controls.Win.XAML\Themes\Generic.xbf</PackagePath>
+      <Modified>2015-04-20T12:24:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf</PackagePath>
+      <Modified>2014-04-28T15:27:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\bootstrap.html</PackagePath>
+      <Modified>2014-04-28T15:27:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\mraidApi.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\mraidApi.html</PackagePath>
+      <Modified>2014-04-28T15:27:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\ormma.js">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\ormma.js</PackagePath>
+      <Modified>2014-04-28T15:30:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\Assets\1.1.jpg">
+      <PackagePath>Assets\1.1.jpg</PackagePath>
+      <Modified>2015-04-27T00:22:16.407</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\Assets\hub.jpg">
+      <PackagePath>Assets\hub.jpg</PackagePath>
+      <Modified>2015-04-27T00:30:30.714</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\2.jpg">
+      <PackagePath>Assets\2.jpg</PackagePath>
+      <Modified>2015-04-26T23:16:37.755</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\3.jpg">
+      <PackagePath>Assets\3.jpg</PackagePath>
+      <Modified>2015-04-27T00:00:46.816</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\1.jpg">
+      <PackagePath>Assets\luxor\1.jpg</PackagePath>
+      <Modified>2015-04-27T00:01:13.503</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\10.jpg">
+      <PackagePath>Assets\luxor\10.jpg</PackagePath>
+      <Modified>2015-04-27T00:02:03.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\11.jpg">
+      <PackagePath>Assets\luxor\11.jpg</PackagePath>
+      <Modified>2015-04-27T00:02:11.665</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\12.jpg">
+      <PackagePath>Assets\luxor\12.jpg</PackagePath>
+      <Modified>2015-04-27T00:02:16.949</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\13.jpg">
+      <PackagePath>Assets\luxor\13.jpg</PackagePath>
+      <Modified>2015-04-27T00:02:22.461</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\14.jpg">
+      <PackagePath>Assets\luxor\14.jpg</PackagePath>
+      <Modified>2015-04-27T00:02:32.907</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\15.jpg">
+      <PackagePath>Assets\luxor\15.jpg</PackagePath>
+      <Modified>2015-04-27T00:02:40.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\16.jpg">
+      <PackagePath>Assets\luxor\16.jpg</PackagePath>
+      <Modified>2015-04-27T00:02:48.905</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\17.jpg">
+      <PackagePath>Assets\luxor\17.jpg</PackagePath>
+      <Modified>2015-04-27T00:02:57.226</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\18.jpg">
+      <PackagePath>Assets\luxor\18.jpg</PackagePath>
+      <Modified>2015-04-27T00:03:05.706</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\19.jpg">
+      <PackagePath>Assets\luxor\19.jpg</PackagePath>
+      <Modified>2015-04-27T00:03:39.214</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\2.jpg">
+      <PackagePath>Assets\luxor\2.jpg</PackagePath>
+      <Modified>2015-04-27T00:01:20.068</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\20.jpg">
+      <PackagePath>Assets\luxor\20.jpg</PackagePath>
+      <Modified>2015-04-27T00:03:45.362</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\21.jpg">
+      <PackagePath>Assets\luxor\21.jpg</PackagePath>
+      <Modified>2015-04-27T00:03:51.949</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\22.jpg">
+      <PackagePath>Assets\luxor\22.jpg</PackagePath>
+      <Modified>2015-04-27T00:03:58.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\23.jpg">
+      <PackagePath>Assets\luxor\23.jpg</PackagePath>
+      <Modified>2015-04-27T00:04:09.909</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\24.jpg">
+      <PackagePath>Assets\luxor\24.jpg</PackagePath>
+      <Modified>2015-04-27T00:04:17.875</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\25.jpg">
+      <PackagePath>Assets\luxor\25.jpg</PackagePath>
+      <Modified>2015-04-27T00:04:26.106</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\3.jpg">
+      <PackagePath>Assets\luxor\3.jpg</PackagePath>
+      <Modified>2015-04-27T00:01:25.317</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\4.jpg">
+      <PackagePath>Assets\luxor\4.jpg</PackagePath>
+      <Modified>2015-04-27T00:01:29.865</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\5.jpg">
+      <PackagePath>Assets\luxor\5.jpg</PackagePath>
+      <Modified>2015-04-27T00:01:34.845</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\6.jpg">
+      <PackagePath>Assets\luxor\6.jpg</PackagePath>
+      <Modified>2015-04-27T00:01:40.699</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\7.jpg">
+      <PackagePath>Assets\luxor\7.jpg</PackagePath>
+      <Modified>2015-04-27T00:01:45.829</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\8.jpg">
+      <PackagePath>Assets\luxor\8.jpg</PackagePath>
+      <Modified>2015-04-27T00:01:50.818</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\luxor\9.jpg">
+      <PackagePath>Assets\luxor\9.jpg</PackagePath>
+      <Modified>2015-04-27T00:01:56.020</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\1.jpg">
+      <PackagePath>Assets\sharm\1.jpg</PackagePath>
+      <Modified>2015-04-26T23:01:43.507</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\10.jpg">
+      <PackagePath>Assets\sharm\10.jpg</PackagePath>
+      <Modified>2015-04-26T23:36:50.855</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\11.jpg">
+      <PackagePath>Assets\sharm\11.jpg</PackagePath>
+      <Modified>2015-04-26T23:37:27.049</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\12.jpg">
+      <PackagePath>Assets\sharm\12.jpg</PackagePath>
+      <Modified>2015-04-26T23:37:33.756</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\13.jpg">
+      <PackagePath>Assets\sharm\13.jpg</PackagePath>
+      <Modified>2015-04-26T23:37:45.875</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\14.jpg">
+      <PackagePath>Assets\sharm\14.jpg</PackagePath>
+      <Modified>2015-04-26T23:38:13.322</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\15.jpg">
+      <PackagePath>Assets\sharm\15.jpg</PackagePath>
+      <Modified>2015-04-26T23:40:05.418</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\16.jpg">
+      <PackagePath>Assets\sharm\16.jpg</PackagePath>
+      <Modified>2015-04-26T23:42:15.584</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\2.jpg">
+      <PackagePath>Assets\sharm\2.jpg</PackagePath>
+      <Modified>2015-04-26T23:01:51.051</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\3.jpg">
+      <PackagePath>Assets\sharm\3.jpg</PackagePath>
+      <Modified>2015-04-26T23:22:07.405</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\4.jpg">
+      <PackagePath>Assets\sharm\4.jpg</PackagePath>
+      <Modified>2015-04-26T23:24:04.742</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\5.jpg">
+      <PackagePath>Assets\sharm\5.jpg</PackagePath>
+      <Modified>2015-04-26T23:30:16.004</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\6.jpg">
+      <PackagePath>Assets\sharm\6.jpg</PackagePath>
+      <Modified>2015-04-26T23:30:24.127</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\7.jpg">
+      <PackagePath>Assets\sharm\7.jpg</PackagePath>
+      <Modified>2015-04-26T23:32:02.019</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\8.jpg">
+      <PackagePath>Assets\sharm\8.jpg</PackagePath>
+      <Modified>2015-04-26T23:35:15.308</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\sharm\9.jpg">
+      <PackagePath>Assets\sharm\9.jpg</PackagePath>
+      <Modified>2015-04-26T23:36:44.425</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\Assets\About background.png">
+      <PackagePath>Assets\About background.png</PackagePath>
+      <Modified>2015-05-04T02:54:28.641</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\Assets\Assembly 5-1.png">
+      <PackagePath>Assets\Assembly 5-1.png</PackagePath>
+      <Modified>2015-05-04T02:54:28.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\Assets\Blue.png">
+      <PackagePath>Assets\Blue.png</PackagePath>
+      <Modified>2015-05-04T02:54:28.646</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\Assets\FBL.png">
+      <PackagePath>Assets\FBL.png</PackagePath>
+      <Modified>2015-05-04T02:54:28.648</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\Assets\Logo Icon 1.png">
+      <PackagePath>Assets\Logo Icon 1.png</PackagePath>
+      <Modified>2015-05-04T02:54:28.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\Assets\Logo Icon.png">
+      <PackagePath>Assets\Logo Icon.png</PackagePath>
+      <Modified>2015-05-04T02:54:28.651</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\Assets\Logo Icon2.png">
+      <PackagePath>Assets\Logo Icon2.png</PackagePath>
+      <Modified>2015-05-04T02:54:28.653</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\Assets\map.PNG">
+      <PackagePath>Assets\map.PNG</PackagePath>
+      <Modified>2015-04-27T10:27:06.738</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\Assets\map2.PNG">
+      <PackagePath>Assets\map2.PNG</PackagePath>
+      <Modified>2015-04-27T10:39:56.641</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\Assets\TL.png">
+      <PackagePath>Assets\TL.png</PackagePath>
+      <Modified>2015-05-04T02:54:28.655</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\1.jpeg">
+      <PackagePath>Assets\1.jpeg</PackagePath>
+      <Modified>2015-04-26T22:37:08.868</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\4.jpeg">
+      <PackagePath>Assets\4.jpeg</PackagePath>
+      <Modified>2015-04-26T23:51:04.370</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\1.jpeg">
+      <PackagePath>Assets\alex\1.jpeg</PackagePath>
+      <Modified>2015-04-26T23:49:29.853</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\10.jpeg">
+      <PackagePath>Assets\alex\10.jpeg</PackagePath>
+      <Modified>2015-04-26T23:50:33.309</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\11.jpeg">
+      <PackagePath>Assets\alex\11.jpeg</PackagePath>
+      <Modified>2015-04-26T23:50:42.908</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\12.jpeg">
+      <PackagePath>Assets\alex\12.jpeg</PackagePath>
+      <Modified>2015-04-26T23:50:49.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\13.jpeg">
+      <PackagePath>Assets\alex\13.jpeg</PackagePath>
+      <Modified>2015-04-26T23:50:55.938</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\14.jpeg">
+      <PackagePath>Assets\alex\14.jpeg</PackagePath>
+      <Modified>2015-04-26T23:51:04.370</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\15.jpeg">
+      <PackagePath>Assets\alex\15.jpeg</PackagePath>
+      <Modified>2015-04-26T23:51:12.370</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\16.jpeg">
+      <PackagePath>Assets\alex\16.jpeg</PackagePath>
+      <Modified>2015-04-26T23:51:19.250</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\17.jpeg">
+      <PackagePath>Assets\alex\17.jpeg</PackagePath>
+      <Modified>2015-04-26T23:51:28.869</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\2.jpeg">
+      <PackagePath>Assets\alex\2.jpeg</PackagePath>
+      <Modified>2015-04-26T23:49:36.482</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\3.jpeg">
+      <PackagePath>Assets\alex\3.jpeg</PackagePath>
+      <Modified>2015-04-26T23:49:46.545</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\4.jpeg">
+      <PackagePath>Assets\alex\4.jpeg</PackagePath>
+      <Modified>2015-04-26T23:49:52.557</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\5.jpeg">
+      <PackagePath>Assets\alex\5.jpeg</PackagePath>
+      <Modified>2015-04-26T23:49:59.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\6.jpeg">
+      <PackagePath>Assets\alex\6.jpeg</PackagePath>
+      <Modified>2015-04-26T23:50:06.329</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\7.jpeg">
+      <PackagePath>Assets\alex\7.jpeg</PackagePath>
+      <Modified>2015-04-26T23:50:14.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\8.jpeg">
+      <PackagePath>Assets\alex\8.jpeg</PackagePath>
+      <Modified>2015-04-26T23:50:20.278</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\alex\9.jpeg">
+      <PackagePath>Assets\alex\9.jpeg</PackagePath>
+      <Modified>2015-04-26T23:50:26.536</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\cairo\1.jpeg">
+      <PackagePath>Assets\cairo\1.jpeg</PackagePath>
+      <Modified>2015-04-26T22:38:40.453</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\cairo\10.jpeg">
+      <PackagePath>Assets\cairo\10.jpeg</PackagePath>
+      <Modified>2015-04-26T22:40:07.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\cairo\11.jpeg">
+      <PackagePath>Assets\cairo\11.jpeg</PackagePath>
+      <Modified>2015-04-26T22:40:17.305</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\cairo\12.jpeg">
+      <PackagePath>Assets\cairo\12.jpeg</PackagePath>
+      <Modified>2015-04-26T22:40:25.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\cairo\13.jpeg">
+      <PackagePath>Assets\cairo\13.jpeg</PackagePath>
+      <Modified>2015-04-26T22:40:32.915</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\cairo\14.jpeg">
+      <PackagePath>Assets\cairo\14.jpeg</PackagePath>
+      <Modified>2015-04-26T22:40:39.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\cairo\2.jpeg">
+      <PackagePath>Assets\cairo\2.jpeg</PackagePath>
+      <Modified>2015-04-26T22:38:54.742</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\cairo\3.jpeg">
+      <PackagePath>Assets\cairo\3.jpeg</PackagePath>
+      <Modified>2015-04-26T22:39:06.917</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\cairo\4.jpeg">
+      <PackagePath>Assets\cairo\4.jpeg</PackagePath>
+      <Modified>2015-04-26T22:39:17.817</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\cairo\5.jpeg">
+      <PackagePath>Assets\cairo\5.jpeg</PackagePath>
+      <Modified>2015-04-26T22:39:25.604</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\cairo\6.jpeg">
+      <PackagePath>Assets\cairo\6.jpeg</PackagePath>
+      <Modified>2015-04-26T22:39:32.927</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\cairo\7.jpeg">
+      <PackagePath>Assets\cairo\7.jpeg</PackagePath>
+      <Modified>2015-04-26T22:39:38.817</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\cairo\8.jpeg">
+      <PackagePath>Assets\cairo\8.jpeg</PackagePath>
+      <Modified>2015-04-26T22:39:49.434</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Shared\Assets\cairo\9.jpeg">
+      <PackagePath>Assets\cairo\9.jpeg</PackagePath>
+      <Modified>2015-04-26T22:39:58.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-03-09T00:18:35.651</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\bin\Debug\about.xbf">
+      <PackagePath>about.xbf</PackagePath>
+      <Modified>2015-05-04T03:09:15.187</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\bin\Debug\HotelPage.xbf">
+      <PackagePath>HotelPage.xbf</PackagePath>
+      <Modified>2015-05-04T10:45:25.484</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-05-06T18:24:12.246</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\bin\Debug\SearchResultsPage.xbf">
+      <PackagePath>SearchResultsPage.xbf</PackagePath>
+      <Modified>2015-05-04T10:32:14.291</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\bin\Debug\WebPageView.xbf">
+      <PackagePath>WebPageView.xbf</PackagePath>
+      <Modified>2015-05-01T14:23:28.214</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\bin\Debug\assembly.Windows.xr.xml">
+      <PackagePath>assembly.Windows.xr.xml</PackagePath>
+      <Modified>2015-05-06T18:21:22.502</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-04T03:09:15.829</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
