@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-hu"
+"ResourceDimensions"		"language-hu-hu"
+
+[Files]
+"D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\split.language-hu.pri"			"resources.pri"

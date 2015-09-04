@@ -1,0 +1,4 @@
+MainPackage=c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\bin\Release\el-3abkry.WindowsPhone_1.1.0.4_Bundle\el-3abkry.WindowsPhone_1.1.0.4_AnyCPU.appx
+SymbolPackage=c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\AppPackages\el-3abkry.WindowsPhone_1.1.0.4_Test\el-3abkry.WindowsPhone_1.1.0.4_AnyCPU.appxsym
+ResourcePack=c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\bin\Release\el-3abkry.WindowsPhone_1.1.0.4_Bundle\el-3abkry.WindowsPhone_1.1.0.4_scale-100.appx
+ResourcePack=c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\bin\Release\el-3abkry.WindowsPhone_1.1.0.4_Bundle\el-3abkry.WindowsPhone_1.1.0.4_scale-140.appx

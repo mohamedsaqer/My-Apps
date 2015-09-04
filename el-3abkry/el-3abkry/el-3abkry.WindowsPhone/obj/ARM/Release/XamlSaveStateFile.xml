@@ -1,0 +1,14 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\assembly line 5-1 program\my apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.windowsphone\obj\arm\release\intermediatexaml\el-3abkry.windowsphone.exe" HashGuid="c6e12833-cf0e-9c51-2ffc-f3ddf0c0dfbd" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\adduplex.winphone.extension\9.0.0.5\references\commonconfiguration\neutral\adduplex.universal.controls.winphone.xaml.winmd" HashGuid="008cbc5f-2cd6-f4d6-cccb-456e3283cdc9" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\adduplex.winphone.extension\9.0.0.5\references\commonconfiguration\neutral\adduplex.universal.winphone.winrt.winmd" HashGuid="583512d9-4c6a-e7ad-c421-2c9e2d0d4040" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.admediator81\1.0\references\commonconfiguration\neutral\microsoft.admediator.core.dll" HashGuid="673ed4a0-80b9-eadc-b684-340ef373c00a" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.admediator81\1.0\references\commonconfiguration\neutral\microsoft.admediator.windowsphone81.dll" HashGuid="740ab384-2400-7256-2bdb-ab2aaba3d2fd" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.admediator81\1.0\references\commonconfiguration\arm\microsoft.admediator.windowsphone81.microsoftadvertising.dll" HashGuid="cb50388a-8450-e244-6669-5fd51e7e66b8" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.advertising.mobile.display\8.1\references\commonconfiguration\neutral\microsoft.advertising.mobile.common.winmd" HashGuid="1e8503cf-70b4-228d-c093-500b67413313" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.advertising.mobile.display\8.1\references\commonconfiguration\neutral\microsoft.advertising.mobile.display.winmd" HashGuid="cc0fb2e7-7a64-f70e-2997-2ad4fbf1cad0" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.advertising.mobile.display\8.1\references\commonconfiguration\neutral\microsoft.advertising.mobile.ui.winmd" HashGuid="e9cb4a1e-7cfd-ae54-a0dc-9f940488270a" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.admediator81\1.0\references\commonconfiguration\neutral\microsoft.advertising.winmd" HashGuid="37d08ef8-c747-33fa-c9e3-02cb26a9b7a3" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

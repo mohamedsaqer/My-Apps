@@ -1,0 +1,82 @@
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\bin\Release\App.xbf
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\bin\Release\about.xbf
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\bin\Release\MainPage.xbf
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\bin\Release\el-3abkry.WindowsPhone.xr.xml
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\bin\Release\el-3abkry.WindowsPhone.exe
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\bin\Release\el-3abkry.WindowsPhone.pdb
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\bin\Release\resources.pri
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\bin\Release\AppxManifest.xml
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\bin\Release\el-3abkry.WindowsPhone.build.appxrecipe
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\App.g.i.cs
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\App.g.cs
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\about.g.i.cs
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\about.g.cs
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\MainPage.g.i.cs
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\MainPage.g.cs
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\App.xaml
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\about.xaml
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\MainPage.xaml
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\App.xbf
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\about.xbf
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\MainPage.xbf
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\el-3abkry.WindowsPhone.exe
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\el-3abkry.WindowsPhone.pdb
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\priconfig.xml
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\priconfig.xml.intermediate
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\layout.resfiles
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\layout.resfiles.intermediate
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\resources.resfiles
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\resources.resfiles.intermediate
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\pri.resfiles
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\pri.resfiles.intermediate
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\qualifiers.txt
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\ProjectArchitectures.txt
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\el-3abkry.WindowsPhone.exe
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\el-3abkry.WindowsPhone.pdb
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\bin\Release\App.xbf
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\bin\Release\about.xbf
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\bin\Release\MainPage.xbf
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\bin\Release\el-3abkry.WindowsPhone.xr.xml
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\bin\Release\el-3abkry.WindowsPhone.exe
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\bin\Release\el-3abkry.WindowsPhone.pdb
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\bin\Release\resources.pri
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\bin\Release\AppxManifest.xml
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\bin\Release\el-3abkry.WindowsPhone.build.appxrecipe
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\bin\Release\AdDuplex.Universal.Controls.WinPhone.XAML.winmd
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\bin\Release\AdDuplex.Universal.WinPhone.WinRT.winmd
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\bin\Release\Microsoft.Advertising.Mobile.Common.winmd
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\bin\Release\Microsoft.Advertising.Mobile.Common.xml
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\bin\Release\Microsoft.Advertising.Mobile.Display.winmd
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\bin\Release\Microsoft.Advertising.Mobile.Display.xml
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\bin\Release\Microsoft.Advertising.Mobile.UI.winmd
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\bin\Release\Microsoft.Advertising.Mobile.UI.xml
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\App.g.i.cs
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\App.g.cs
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\about.g.i.cs
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\about.g.cs
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\MainPage.g.i.cs
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\MainPage.g.cs
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\XamlTypeInfo.g.cs
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\App.xaml
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\about.xaml
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\MainPage.xaml
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\App.xbf
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\about.xbf
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\MainPage.xbf
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\XamlSaveStateFile.xml
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\priconfig.xml
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\priconfig.xml.intermediate
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\layout.resfiles
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\layout.resfiles.intermediate
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\resources.resfiles
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\resources.resfiles.intermediate
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\pri.resfiles
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\pri.resfiles.intermediate
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\qualifiers.txt
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\qualifiers.txt.intermediate
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+D:\Assembly Line 5-1 Program\My Apps\el 3abkry\el-3abkry\el-3abkry\el-3abkry.WindowsPhone\obj\Release\ProjectArchitectures.txt

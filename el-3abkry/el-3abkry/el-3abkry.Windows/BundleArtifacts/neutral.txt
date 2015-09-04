@@ -1,0 +1,3 @@
+MainPackage=c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.Windows\bin\Release\el-3abkry.Windows_1.1.0.1_Bundle\el-3abkry.Windows_1.1.0.1_AnyCPU.appx
+SymbolPackage=c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.Windows\AppPackages\el-3abkry.Windows_1.1.0.1_Test\el-3abkry.Windows_1.1.0.1_AnyCPU.appxsym
+ResourcePack=c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.Windows\bin\Release\el-3abkry.Windows_1.1.0.1_Bundle\el-3abkry.Windows_1.1.0.1_scale-180.appx

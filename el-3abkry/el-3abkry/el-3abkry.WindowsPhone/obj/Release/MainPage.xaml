@@ -1,0 +1,81 @@
+﻿<Page
+    x:Class="el_3abkry.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:el_3abkry"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:ad="using:AdDuplex.Universal.Controls.WinPhone.XAML"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton x:ConnectionId='1' Icon="Important" Label="About"                  />
+        </CommandBar>
+    </Page.BottomAppBar>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Background="Red"/>
+        <TextBlock Grid.Row="0" Text=" El - 3abkry" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="40" FontWeight="Bold" Foreground="BurlyWood"/>
+        <Pivot Grid.Row="1" x:Name="kkkk">
+            <Pivot.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/3.jpg"/>
+            </Pivot.Background>
+            <PivotItem>
+                <ScrollViewer VerticalScrollMode="Auto" >
+                    <StackPanel Orientation="Vertical">
+                        <TextBlock Text="Top 10 Programming language" FontSize="20" Foreground="#FFFFFFA9" FontWeight="Bold" Margin="0,20,0,20" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                        <ListView x:ConnectionId='6' x:Name="showlist"
+                  Foreground="Red"
+                  HorizontalAlignment="Center" 
+                  VerticalAlignment="Center"
+                  ItemsSource="{Binding}"
+                                                     >
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding OfficeName}" 
+                                   Foreground="White" 
+                                   FontSize="20" 
+                                   Height="60"
+                                   Width="220"
+                                   FontWeight="Bold"
+                                   Margin="10" />
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                        <ad:AdControl AdUnitId="164447" AppKey="4633f580-2200-4763-9d90-da8370e5e684" />        
+                    </StackPanel>
+                </ScrollViewer>
+            </PivotItem>
+            <PivotItem>
+                <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="100"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <StackPanel Orientation="Horizontal">
+                            <StackPanel Orientation="Vertical">
+                                <RadioButton x:ConnectionId='4' GroupName="one" x:Name="radio1"                       Content="History" IsEnabled="True" />
+                                <RadioButton x:ConnectionId='5' GroupName="one" x:Name="radio2"                       Content="IDE"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Vertical">
+                                <RadioButton x:ConnectionId='2' GroupName="one" x:Name="radio3"                         Content="Books"/>
+                                <RadioButton x:ConnectionId='3' GroupName="one" x:Name="radio4"                        Content="Tutorial" />
+                            </StackPanel>
+                        </StackPanel>
+                </Grid>
+                <Grid Grid.Row="1">
+                    <ScrollViewer VerticalScrollMode="Auto" HorizontalScrollMode="Auto">
+                        <WebView x:Name="allwords" Margin="5"/>
+                    </ScrollViewer>
+                </Grid>
+                </Grid>
+            </PivotItem>
+        </Pivot>
+    </Grid>
+</Page>
+

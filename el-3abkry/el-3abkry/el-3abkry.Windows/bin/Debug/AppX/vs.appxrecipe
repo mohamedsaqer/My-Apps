@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HP</Machine>
+    <WindowsUser>ENG MOHAMED EL_SAQER</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ad0652c8-fb28-4c94-8508-a49a62727db3</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>7BD5B16F788E64365071D35ED56DD7A2C9A7E14A08E3AB50FA60FB6938118D23</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ad0652c8-fb28-4c94-8508-a49a62727db3_1.0.0.0_neutral__030ez84zywqrr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ad0652c8-fb28-4c94-8508-a49a62727db3_030ez84zywqrr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ad0652c8-fb28-4c94-8508-a49a62727db3</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=ENG MOHAMED EL_SAQER</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-30T16:55:41.487</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.Windows\bin\Debug\el-3abkry.Windows.exe">
+      <PackagePath>el-3abkry.Windows.exe</PackagePath>
+      <Modified>2015-07-30T17:12:10.517</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.Windows\Assets\3.jpg">
+      <PackagePath>Assets\3.jpg</PackagePath>
+      <Modified>2015-07-30T16:34:44.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.Windows\Assets\Assembly 5-1.png">
+      <PackagePath>Assets\Assembly 5-1.png</PackagePath>
+      <Modified>2015-07-30T16:34:44.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.Windows\Assets\Blue.png">
+      <PackagePath>Assets\Blue.png</PackagePath>
+      <Modified>2015-07-30T16:34:44.497</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.Windows\Assets\FBL.png">
+      <PackagePath>Assets\FBL.png</PackagePath>
+      <Modified>2015-07-30T16:34:44.499</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.Windows\Assets\Logo Icon 1.png">
+      <PackagePath>Assets\Logo Icon 1.png</PackagePath>
+      <Modified>2015-07-30T16:34:44.512</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.Windows\Assets\Logo Icon.png">
+      <PackagePath>Assets\Logo Icon.png</PackagePath>
+      <Modified>2015-07-30T16:34:44.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.Windows\Assets\Logo Icon2.png">
+      <PackagePath>Assets\Logo Icon2.png</PackagePath>
+      <Modified>2015-07-30T16:34:44.517</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-30T16:24:51.686</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-30T16:23:52.255</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-30T16:25:39.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.Windows\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-30T16:48:23.009</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.Windows\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-30T16:25:23.932</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.Windows\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-30T16:24:32.001</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-30T16:24:07.282</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.Windows\Assets\TL.png">
+      <PackagePath>Assets\TL.png</PackagePath>
+      <Modified>2015-07-30T16:34:44.520</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.Windows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-30T16:25:09.075</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-07-30T16:55:41.056</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.Windows\bin\Debug\about.xbf">
+      <PackagePath>about.xbf</PackagePath>
+      <Modified>2015-07-30T17:12:10.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-07-30T17:12:10.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.Windows\bin\Debug\el-3abkry.Windows.xr.xml">
+      <PackagePath>el-3abkry.Windows.xr.xml</PackagePath>
+      <Modified>2015-07-30T17:12:10.258</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\eng mohamed el_saqer\documents\visual studio 2013\Projects\el-3abkry\el-3abkry\el-3abkry.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-07-30T16:55:41.362</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

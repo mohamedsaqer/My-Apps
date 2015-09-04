@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="28580ENGMOHAMEDELSAQER.El-3abkry" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>100</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="about.xbf" uri="ms-resource://28580ENGMOHAMEDELSAQER.El-3abkry/Files/about.xbf">
+				<Candidate type="Path">
+					<Value>about.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="App.xbf" uri="ms-resource://28580ENGMOHAMEDELSAQER.El-3abkry/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="el-3abkry.Windows.xr.xml" uri="ms-resource://28580ENGMOHAMEDELSAQER.El-3abkry/Files/el-3abkry.Windows.xr.xml">
+				<Candidate type="Path">
+					<Value>el-3abkry.Windows.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://28580ENGMOHAMEDELSAQER.El-3abkry/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="3.jpg" uri="ms-resource://28580ENGMOHAMEDELSAQER.El-3abkry/Files/Assets/3.jpg">
+					<Candidate type="Path">
+						<Value>Assets\3.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Assembly 5-1.png" uri="ms-resource://28580ENGMOHAMEDELSAQER.El-3abkry/Files/Assets/Assembly%205-1.png">
+					<Candidate type="Path">
+						<Value>Assets\Assembly 5-1.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Blue.png" uri="ms-resource://28580ENGMOHAMEDELSAQER.El-3abkry/Files/Assets/Blue.png">
+					<Candidate type="Path">
+						<Value>Assets\Blue.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FBL.png" uri="ms-resource://28580ENGMOHAMEDELSAQER.El-3abkry/Files/Assets/FBL.png">
+					<Candidate type="Path">
+						<Value>Assets\FBL.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo Icon 1.png" uri="ms-resource://28580ENGMOHAMEDELSAQER.El-3abkry/Files/Assets/Logo%20Icon%201.png">
+					<Candidate type="Path">
+						<Value>Assets\Logo Icon 1.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo Icon.png" uri="ms-resource://28580ENGMOHAMEDELSAQER.El-3abkry/Files/Assets/Logo%20Icon.png">
+					<Candidate type="Path">
+						<Value>Assets\Logo Icon.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo Icon2.png" uri="ms-resource://28580ENGMOHAMEDELSAQER.El-3abkry/Files/Assets/Logo%20Icon2.png">
+					<Candidate type="Path">
+						<Value>Assets\Logo Icon2.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://28580ENGMOHAMEDELSAQER.El-3abkry/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://28580ENGMOHAMEDELSAQER.El-3abkry/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://28580ENGMOHAMEDELSAQER.El-3abkry/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square310x310Logo.png" uri="ms-resource://28580ENGMOHAMEDELSAQER.El-3abkry/Files/Assets/Square310x310Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Square310x310Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square70x70Logo.png" uri="ms-resource://28580ENGMOHAMEDELSAQER.El-3abkry/Files/Assets/Square70x70Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Square70x70Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://28580ENGMOHAMEDELSAQER.El-3abkry/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TL.png" uri="ms-resource://28580ENGMOHAMEDELSAQER.El-3abkry/Files/Assets/TL.png">
+					<Candidate type="Path">
+						<Value>Assets\TL.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://28580ENGMOHAMEDELSAQER.El-3abkry/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>
