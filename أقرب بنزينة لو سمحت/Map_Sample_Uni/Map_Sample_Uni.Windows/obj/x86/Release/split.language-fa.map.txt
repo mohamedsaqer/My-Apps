@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-fa"
+"ResourceDimensions"		"language-fa"
+
+[Files]
+"C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Release\split.language-fa.pri"			"resources.pri"

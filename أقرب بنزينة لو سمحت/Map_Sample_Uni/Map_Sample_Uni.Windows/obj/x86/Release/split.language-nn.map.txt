@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-nn"
+"ResourceDimensions"		"language-nn"
+
+[Files]
+"C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Release\split.language-nn.pri"			"resources.pri"

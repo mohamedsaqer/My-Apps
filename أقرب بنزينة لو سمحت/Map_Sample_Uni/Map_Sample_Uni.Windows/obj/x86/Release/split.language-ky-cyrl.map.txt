@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-ky-cyrl"
+"ResourceDimensions"		"language-ky-kg"
+
+[Files]
+"C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Release\split.language-ky-cyrl.pri"			"resources.pri"

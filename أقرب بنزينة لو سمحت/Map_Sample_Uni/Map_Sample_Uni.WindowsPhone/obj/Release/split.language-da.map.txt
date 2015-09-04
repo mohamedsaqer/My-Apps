@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-da"
+"ResourceDimensions"		"language-da-dk"
+
+[Files]
+"C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Release\split.language-da.pri"			"resources.pri"

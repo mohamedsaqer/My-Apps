@@ -1,0 +1,339 @@
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\App.xbf
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\MainPage.xbf
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.xr.xml
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.exe
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.pdb
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\resources.pri
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\AppxManifest.xml
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.build.appxrecipe
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Bing.Maps.winmd
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Bing.Maps.xml
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.g.i.cs
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.g.cs
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.g.cs
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.xaml
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.xaml
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.xbf
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.xbf
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Map_Sample_Uni.Windows.exe
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Map_Sample_Uni.Windows.pdb
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Map_Sample_Uni.Windows.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\priconfig.xml
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\layout.resfiles
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\resources.resfiles
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\pri.resfiles
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\qualifiers.txt
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\App.xbf
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\MainPage.xbf
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.xr.xml
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.exe
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.pdb
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\resources.pri
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\AppxManifest.xml
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.build.appxrecipe
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Bing.Maps.winmd
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Bing.Maps.xml
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.g.i.cs
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.g.cs
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.g.cs
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.xaml
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.xaml
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.xbf
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.xbf
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Map_Sample_Uni.Windows.exe
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Map_Sample_Uni.Windows.pdb
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Map_Sample_Uni.Windows.csproj.GenerateResource.Cache
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\priconfig.xml
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\layout.resfiles
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\resources.resfiles
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\pri.resfiles
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\qualifiers.txt
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mohamed\Desktop\new task\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\App.xbf
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\about.xbf
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\MainPage.xbf
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.xr.xml
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.exe
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.pdb
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\resources.pri
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\AppxManifest.xml
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.build.appxrecipe
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Bing.Maps.winmd
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Bing.Maps.xml
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.g.i.cs
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.g.cs
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\about.g.i.cs
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\about.g.cs
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.g.cs
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.xaml
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\about.xaml
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.xaml
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.xbf
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\about.xbf
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.xbf
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Map_Sample_Uni.Windows.exe
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Map_Sample_Uni.Windows.pdb
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Map_Sample_Uni.Windows.csproj.GenerateResource.Cache
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\priconfig.xml
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\layout.resfiles
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\resources.resfiles
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\pri.resfiles
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\qualifiers.txt
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\ProjectArchitectures.txt
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\App.xbf
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\about.xbf
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\MainPage.xbf
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Bing.Maps\Themes\Generic.xbf
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.xr.xml
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.exe
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.pdb
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\resources.pri
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\AppxManifest.xml
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.build.appxrecipe
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Bing.Maps.winmd
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Bing.Maps.xml
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.g.i.cs
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.g.cs
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\about.g.i.cs
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\about.g.cs
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.g.i.cs
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.g.cs
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.xaml
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\about.xaml
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.xaml
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.xbf
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\about.xbf
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.xbf
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Bing.Maps\Themes\Generic.xbf
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Map_Sample_Uni.Windows.exe
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Map_Sample_Uni.Windows.pdb
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Map_Sample_Uni.Windows.csproj.GenerateResource.Cache
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\priconfig.xml
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\priconfig.xml.intermediate
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\layout.resfiles
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\layout.resfiles.intermediate
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\resources.resfiles
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\resources.resfiles.intermediate
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\pri.resfiles
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\pri.resfiles.intermediate
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\qualifiers.txt
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Assembly Line 5-1 Program\Matriel\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\App.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\MainPage.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.xr.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.exe
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.pdb
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\resources.pri
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\AppxManifest.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.build.appxrecipe
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Bing.Maps.winmd
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Bing.Maps.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.g.i.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.xaml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.xaml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Map_Sample_Uni.Windows.exe
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Map_Sample_Uni.Windows.pdb
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Map_Sample_Uni.Windows.csproj.GenerateResource.Cache
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\priconfig.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\layout.resfiles
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\resources.resfiles
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\pri.resfiles
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\qualifiers.txt
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\App.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\MainPage.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.xr.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.exe
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.pdb
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\resources.pri
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\AppxManifest.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.build.appxrecipe
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Bing.Maps.winmd
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Bing.Maps.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.g.i.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.xaml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.xaml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Map_Sample_Uni.Windows.exe
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Map_Sample_Uni.Windows.pdb
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Map_Sample_Uni.Windows.csproj.GenerateResource.Cache
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\priconfig.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\layout.resfiles
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\resources.resfiles
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\pri.resfiles
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\qualifiers.txt
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\about.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\AdDuplex.Universal.Controls.Win.XAML.winmd
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\AdDuplex.Universal.Win.WinRT.winmd
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Microsoft.Advertising.WinRT.UI.winmd
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Microsoft.Advertising.WinRT.UI.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\MicrosoftAdvertising.winmd
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\MicrosoftAdvertising.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\about.g.i.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\about.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\about.xaml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\about.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\App.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\about.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\MainPage.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.xr.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.exe
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.pdb
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\resources.pri
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\AppxManifest.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.build.appxrecipe
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\AdDuplex.Universal.Controls.Win.XAML.winmd
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\AdDuplex.Universal.Win.WinRT.winmd
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Bing.Maps.winmd
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Bing.Maps.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Microsoft.Advertising.WinRT.UI.winmd
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Microsoft.Advertising.WinRT.UI.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\MicrosoftAdvertising.winmd
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\MicrosoftAdvertising.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.g.i.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\about.g.i.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\about.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.xaml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\about.xaml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.xaml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\about.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Bing.Maps\Themes\Generic.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Map_Sample_Uni.Windows.exe
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Map_Sample_Uni.Windows.pdb
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Map_Sample_Uni.Windows.csproj.GenerateResource.Cache
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\priconfig.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\layout.resfiles
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\resources.resfiles
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\pri.resfiles
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\qualifiers.txt
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\ProjectArchitectures.txt
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\App.xbf
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\about.xbf
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\MainPage.xbf
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Bing.Maps\Themes\Generic.xbf
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.xr.xml
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.exe
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.pdb
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\resources.pri
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\AppxManifest.xml
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Map_Sample_Uni.Windows.build.appxrecipe
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\AdDuplex.Universal.Controls.Win.XAML.winmd
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\AdDuplex.Universal.Win.WinRT.winmd
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Bing.Maps.winmd
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Bing.Maps.xml
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Microsoft.Advertising.WinRT.UI.winmd
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\Microsoft.Advertising.WinRT.UI.xml
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\MicrosoftAdvertising.winmd
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Debug\MicrosoftAdvertising.xml
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.g.i.cs
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.g.cs
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\about.g.i.cs
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\about.g.cs
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.g.i.cs
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.g.cs
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.xaml
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\about.xaml
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.xaml
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\App.xbf
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\about.xbf
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MainPage.xbf
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Bing.Maps\Themes\Generic.xbf
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Map_Sample_Uni.Windows.exe
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Map_Sample_Uni.Windows.pdb
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\Map_Sample_Uni.Windows.csproj.GenerateResource.Cache
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\priconfig.xml
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\priconfig.xml.intermediate
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\layout.resfiles
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\layout.resfiles.intermediate
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\resources.resfiles
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\resources.resfiles.intermediate
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\pri.resfiles
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\pri.resfiles.intermediate
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\qualifiers.txt
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Debug\ProjectArchitectures.txt

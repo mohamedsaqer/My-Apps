@@ -1,0 +1,242 @@
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Map_Sample_Uni.WindowsPhone.xr.xml
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Map_Sample_Uni.WindowsPhone.exe
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Map_Sample_Uni.WindowsPhone.pdb
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Map_Sample_Uni.WindowsPhone.build.appxrecipe
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\Map_Sample_Uni.WindowsPhone.exe
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\Map_Sample_Uni.WindowsPhone.pdb
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\Map_Sample_Uni.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\about.xbf
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Map_Sample_Uni.WindowsPhone.xr.xml
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Map_Sample_Uni.WindowsPhone.exe
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Map_Sample_Uni.WindowsPhone.pdb
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Map_Sample_Uni.WindowsPhone.build.appxrecipe
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\about.g.i.cs
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\about.g.cs
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\about.xaml
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\about.xbf
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\Map_Sample_Uni.WindowsPhone.exe
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\Map_Sample_Uni.WindowsPhone.pdb
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Sayed\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\App.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\about.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Map_Sample_Uni.WindowsPhone.xr.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Map_Sample_Uni.WindowsPhone.exe
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Map_Sample_Uni.WindowsPhone.pdb
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\resources.pri
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Map_Sample_Uni.WindowsPhone.build.appxrecipe
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\about.g.i.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\about.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\App.xaml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\about.xaml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\App.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\about.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\Map_Sample_Uni.WindowsPhone.exe
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\Map_Sample_Uni.WindowsPhone.pdb
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\about.g.i.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\about.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\App.xaml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\about.xaml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\App.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\about.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\Map_Sample_Uni.WindowsPhone.exe
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\Map_Sample_Uni.WindowsPhone.pdb
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\App.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\about.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Map_Sample_Uni.WindowsPhone.xr.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Map_Sample_Uni.WindowsPhone.exe
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Map_Sample_Uni.WindowsPhone.pdb
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\resources.pri
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Map_Sample_Uni.WindowsPhone.build.appxrecipe
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\AdDuplex.Universal.Controls.WinPhone.XAML.winmd
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\AdDuplex.Universal.WinPhone.WinRT.winmd
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Common.winmd
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Common.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Display.winmd
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Display.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.UI.winmd
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\App.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\about.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Map_Sample_Uni.WindowsPhone.xr.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Map_Sample_Uni.WindowsPhone.exe
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Map_Sample_Uni.WindowsPhone.pdb
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\resources.pri
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Map_Sample_Uni.WindowsPhone.build.appxrecipe
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\AdDuplex.Universal.Controls.WinPhone.XAML.winmd
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\AdDuplex.Universal.WinPhone.WinRT.winmd
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Common.winmd
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Common.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Display.winmd
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Display.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.UI.winmd
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\about.g.i.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\about.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\App.xaml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\about.xaml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\App.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\about.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\Map_Sample_Uni.WindowsPhone.exe
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\Map_Sample_Uni.WindowsPhone.pdb
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\App.xbf
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\about.xbf
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\MainPage.xbf
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Map_Sample_Uni.WindowsPhone.xr.xml
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Map_Sample_Uni.WindowsPhone.exe
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Map_Sample_Uni.WindowsPhone.pdb
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\resources.pri
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\AppxManifest.xml
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Map_Sample_Uni.WindowsPhone.build.appxrecipe
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\AdDuplex.Universal.Controls.WinPhone.XAML.winmd
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\AdDuplex.Universal.WinPhone.WinRT.winmd
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Common.winmd
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Common.xml
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Display.winmd
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.Display.xml
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.UI.winmd
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\App.g.i.cs
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\App.g.cs
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\about.g.i.cs
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\about.g.cs
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MainPage.g.i.cs
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MainPage.g.cs
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\App.xaml
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\about.xaml
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MainPage.xaml
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\App.xbf
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\about.xbf
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MainPage.xbf
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\Map_Sample_Uni.WindowsPhone.exe
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\Map_Sample_Uni.WindowsPhone.pdb
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\priconfig.xml
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\layout.resfiles
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\resources.resfiles
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\pri.resfiles
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\qualifiers.txt
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\ProjectArchitectures.txt

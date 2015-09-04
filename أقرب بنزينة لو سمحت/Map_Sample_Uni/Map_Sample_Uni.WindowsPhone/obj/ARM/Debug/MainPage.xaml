@@ -1,0 +1,51 @@
+﻿<Page xmlns:Maps="using:Windows.UI.Xaml.Controls.Maps" 
+    x:Class="Map_Sample_Uni.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:maps"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.BottomAppBar>
+
+        <CommandBar x:Name="myCommandBar"
+                    Opacity=".7"
+                    ClosedDisplayMode="Minimal"
+                    IsSticky="True">
+            <CommandBar.PrimaryCommands>
+                <AppBarButton x:ConnectionId='1' Label="Nearest"
+                              Icon="Directions"
+                                                             
+                              Foreground="#FFDDFF08" />
+                <AppBarButton x:ConnectionId='2' Icon="Important" Label="about"                            />
+            </CommandBar.PrimaryCommands>
+        </CommandBar>
+
+    </Page.BottomAppBar>
+
+    <Grid>
+        <StackPanel>
+            <Maps:MapControl Name="MyMap"
+                             Height="466" />
+            <StackPanel Orientation="Horizontal">
+                <StackPanel>
+                    <Button x:ConnectionId='3' Content="get address"
+                                                   />
+                    <Button x:ConnectionId='4' Content="get route" 
+                                                />
+                    <Button x:ConnectionId='5' Content="Draw Route" 
+                                                       />
+                </StackPanel>
+                <TextBlock Name="txt_blk_address"
+                           Text="Waiting"
+                           FontSize="20"
+                           TextWrapping="Wrap"
+                           Foreground="#FFDDFF08"
+                           Height="109"
+                           Width="277" />
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>
+

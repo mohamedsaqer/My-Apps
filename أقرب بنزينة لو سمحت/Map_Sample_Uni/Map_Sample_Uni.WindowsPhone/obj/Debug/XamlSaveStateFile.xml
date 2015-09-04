@@ -1,0 +1,10 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\eng mohamed el_saqer\desktop\أقرب بنزينة لو سمحت\بنزينة\map_sample_uni\map_sample_uni\map_sample_uni.windowsphone\obj\debug\intermediatexaml\map_sample_uni.windowsphone.exe" HashGuid="5e2c52d6-7a43-2741-3f7d-833d78590b8b" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\adduplex.winphone.extension\9.0.0.5\references\commonconfiguration\neutral\adduplex.universal.controls.winphone.xaml.winmd" HashGuid="008cbc5f-2cd6-f4d6-cccb-456e3283cdc9" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\adduplex.winphone.extension\9.0.0.5\references\commonconfiguration\neutral\adduplex.universal.winphone.winrt.winmd" HashGuid="583512d9-4c6a-e7ad-c421-2c9e2d0d4040" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.advertising.mobile.display\8.1\references\commonconfiguration\neutral\microsoft.advertising.mobile.common.winmd" HashGuid="1e8503cf-70b4-228d-c093-500b67413313" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.advertising.mobile.display\8.1\references\commonconfiguration\neutral\microsoft.advertising.mobile.display.winmd" HashGuid="cc0fb2e7-7a64-f70e-2997-2ad4fbf1cad0" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.advertising.mobile.display\8.1\references\commonconfiguration\neutral\microsoft.advertising.mobile.ui.winmd" HashGuid="e9cb4a1e-7cfd-ae54-a0dc-9f940488270a" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

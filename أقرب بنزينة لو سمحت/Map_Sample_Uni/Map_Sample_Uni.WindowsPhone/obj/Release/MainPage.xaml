@@ -1,0 +1,98 @@
+﻿<Page xmlns:Maps="using:Windows.UI.Xaml.Controls.Maps" 
+    x:Class="Map_Sample_Uni.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:maps"
+    xmlns:adduplex="using:AdDuplex.Universal.Controls.WinPhone.XAML"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.BottomAppBar>
+
+        <CommandBar x:Name="myCommandBar"
+                    Opacity=".7"
+                    ClosedDisplayMode="Minimal"
+                    IsSticky="True">
+            <CommandBar.PrimaryCommands>
+                <AppBarButton x:ConnectionId='1' Label="Nearest"
+                              Icon="Directions"
+                                                             
+                              Foreground="#FFDDFF08" />
+                <AppBarButton x:ConnectionId='2' Icon="Important" Label="about"                            />
+            </CommandBar.PrimaryCommands>
+        </CommandBar>
+
+    </Page.BottomAppBar>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Text="أقرب بنزينة لو سمحت" Foreground="White" FlowDirection="RightToLeft" FontWeight="Bold" FontSize="20" FontStyle="Italic" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Pivot Grid.Row="1" Name="pivot" >
+        <PivotItem >
+            <ListView x:ConnectionId='4'
+                      FlowDirection="RightToLeft"
+                      x:Name="LV_POList"
+                      Margin="0,0,0,-20"
+                      ItemsSource="{Binding}"
+                      FontSize="20"
+                      Background="#FFB9CFEB"
+                                                                   >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                            <Border BorderBrush="White" Background="White" Width="350" Height="32">
+                                <StackPanel>
+                                    <TextBlock Text="{Binding PlaceName}"
+                                       Margin="10,0,0,0"
+                                       FontSize="20"
+                                       VerticalAlignment="Center" HorizontalAlignment="Center"
+                                       Foreground="Blue"
+                                       SelectionHighlightColor="Black" />
+                                </StackPanel>
+                            </Border>
+                        </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </PivotItem>
+            <PivotItem >
+            <Grid >
+                <ProgressRing x:Name="Pbar" Height="164" Grid.Column="0" Foreground="Black" Width="47" Background="Yellow" />
+                <Maps:MapControl Name="MyMap" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+                <Popup 
+                    FlowDirection="RightToLeft"
+                    Width="400"
+                    x:Name="pop_search"
+                    HorizontalAlignment="Center"
+                    Height="150">
+                    <Border Background="#FF047B9B"
+                        VerticalAlignment="Center"
+                        Width="400"
+                        HorizontalAlignment="Center">
+                        <StackPanel VerticalAlignment="Center"
+                                HorizontalAlignment="Center">
+                            <TextBlock x:Name="txtBlk_popup"
+                                   FontSize="20"
+                                   HorizontalAlignment="Center"
+                                   VerticalAlignment="Center" />
+                            <TextBlock Text="  " />
+                            <StackPanel VerticalAlignment="Center"
+                                    Orientation="Horizontal"
+                                    HorizontalAlignment="Center">
+                                <Button x:ConnectionId='3' x:Name="btn_ok"
+                                    Content="موافق"
+                                                         />
+                            </StackPanel>
+                        </StackPanel>
+                    </Border>
+                </Popup>
+
+            </Grid>
+    </PivotItem>
+    </Pivot>
+        <adduplex:AdControl Grid.Row="2" AdUnitId="156395" AppKey="c6b3996d-0489-4271-ad60-27aa0c427374" />
+    </Grid>
+</Page>
+
