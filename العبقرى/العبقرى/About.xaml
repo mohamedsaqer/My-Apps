@@ -1,0 +1,40 @@
+﻿<UserControl
+    x:Class="العبقرى.About"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:العبقرى"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300"
+    d:DesignWidth="400">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Text="By Mohamed Saqer"/>
+        <TextBlock Grid.Row="1" Text="Version   2.1.8.4"/>
+        <!--<TextBlock Grid.Row="2" Text="This App help you to learn programming languages"/>-->
+        <HyperlinkButton Grid.Row="3" Content="Privacy statement" Click="HyperLink"/>
+        <Grid Grid.Row="4">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+            <Image Grid.Row="0" Grid.Column="0" Source="Assets/FBL.png" Height="30" Margin="5" Tapped="Image_Tapped"/>
+            <Image Grid.Row="0" Grid.Column="2" Source="Assets/TL.png" Height="30" Margin="5" Tapped="Image_Tapped_1"/>
+            <TextBlock Grid.Row="0" Grid.Column="1" Text="/realmohamedsaqer" FontSize="13"  VerticalAlignment="Center" Tapped="TextBlock_Tapped_1"/>
+            <TextBlock Grid.Row="0" Grid.Column="4" Text="@realmohmedsaqer" FontSize="13"  VerticalAlignment="Center" Tapped="TextBlock_Tapped_2"/>
+        </Grid>
+    </Grid>
+</UserControl>
