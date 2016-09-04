@@ -207,6 +207,18 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
+    <Reference Include="AdDuplex.Universal.Controls.Win.XAML, Version=9.0.0.12, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\AdDuplexWin81.9.0.0.12\lib\portable-win81+wpa81\AdDuplex.Universal.Controls.Win.XAML.winmd</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="AdDuplex.Universal.Win.WinRT, Version=9.0.0.12, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\AdDuplexWin81.9.0.0.12\lib\portable-win81+wpa81\AdDuplex.Universal.Win.WinRT.winmd</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="BingMapsHelpers.UriBuilder, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\BingMapsHelpers.UriBuilder.1.0.1\lib\netcore45\BingMapsHelpers.UriBuilder.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="ComputerBeacon.Json, Version=4.3.833.2221, Culture=neutral, PublicKeyToken=9e66e0c2305d517d, processorArchitecture=MSIL">
       <HintPath>..\..\packages\ComputerBeacon.Json.4.3.833\lib\portable-net4+sl4+wp7+win8\ComputerBeacon.Json.dll</HintPath>
       <Private>True</Private>
@@ -229,23 +241,23 @@
     </Reference>
     <Reference Include="Moonmile.ExDocPcl.Json, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Moonmile.ExDoc.Json.0.6\lib\portable-win+net45+wp80+MonoAndroid10+MonoTouch10\Moonmile.ExDocPcl.Json.dll</HintPath>
-      <Private>True</Private>
+      <Private>False</Private>
     </Reference>
-    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Newtonsoft.Json.6.0.8\lib\netcore45\Newtonsoft.Json.dll</HintPath>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Newtonsoft.Json.9.0.1\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Newtonsoft.Json.Interface, Version=1.0.3.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Newtonsoft.Json.Interface.1.0.3\lib\netcore45\Newtonsoft.Json.Interface.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="XLabs.Serialization, Version=2.0.5605.6115, Culture=neutral, PublicKeyToken=d65109b36e5040e4, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\XLabs.Serialization.2.0.5605\lib\portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1\XLabs.Serialization.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="XLabs.Serialization, Version=2.0.5782.15703, Culture=neutral, PublicKeyToken=d65109b36e5040e4, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\XLabs.Serialization.2.0.5782\lib\portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1\XLabs.Serialization.dll</HintPath>
+      <Private>False</Private>
     </Reference>
-    <Reference Include="XLabs.Serialization.JsonNET, Version=2.0.5605.6118, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\XLabs.Serialization.JSON.2.0.5605\lib\portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1\XLabs.Serialization.JsonNET.dll</HintPath>
-      <Private>True</Private>
+    <Reference Include="XLabs.Serialization.JsonNET, Version=2.0.5782.12228, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\XLabs.Serialization.JSON.2.0.5782\lib\portable-net45+netcore45+wp8+MonoAndroid1+MonoTouch1\XLabs.Serialization.JsonNET.dll</HintPath>
+      <Private>False</Private>
     </Reference>
   </ItemGroup>
   <ItemGroup>

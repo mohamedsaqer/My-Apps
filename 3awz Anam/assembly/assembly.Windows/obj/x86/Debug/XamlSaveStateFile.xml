@@ -1,21 +1,13 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
     <LocalAssembly PathName="d:\assembly line 5-1 program\assembly\assembly\assembly.windows\obj\x86\debug\intermediatexaml\assembly.windows.exe" HashGuid="e3ff92a0-80c5-24e3-d803-55810c88668f" />
-    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\adduplex.win.extension\9.0.0.4\references\commonconfiguration\neutral\adduplex.universal.controls.win.xaml.winmd" HashGuid="421086fe-ee4d-ee8d-37f4-b4a70155a305" />
-    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\adduplex.win.extension\9.0.0.4\references\commonconfiguration\neutral\adduplex.universal.win.winrt.winmd" HashGuid="cc68de6d-67bc-e414-eaaf-6e9539740855" />
-    <ReferenceAssembly PathName="c:\users\saqer\appdata\local\microsoft sdks\windows\v8.1\extensionsdks\bing.maps.xaml\1.313.0825.0\references\commonconfiguration\neutral\bing.maps.winmd" HashGuid="dcdce9e5-521a-6d20-3956-9df814dff813" />
-    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\msadvertisingxaml\8.1\references\commonconfiguration\neutral\microsoft.advertising.winrt.ui.winmd" HashGuid="e2e1868b-6ac9-03b1-ca83-3c4740a6cdfb" />
-    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\msadvertisingxaml\8.1\references\commonconfiguration\neutral\microsoftadvertising.winmd" HashGuid="ff7acc79-1a32-fd80-27f3-998d24e2b25e" />
     <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
-    <ReferenceAssembly PathName="d:\assembly line 5-1 program\assembly\packages\computerbeacon.json.4.3.833\lib\portable-net4+sl4+wp7+win8\computerbeacon.json.dll" HashGuid="a1039a4b-b31a-3e2c-b091-0b6d3d2ad3c9" />
-    <ReferenceAssembly PathName="d:\assembly line 5-1 program\assembly\packages\jsimple.io.0.9.3.1\lib\jsimple-io.dll" HashGuid="38046446-7057-5a02-69d0-0f2f26ca8ef6" />
-    <ReferenceAssembly PathName="d:\assembly line 5-1 program\assembly\packages\jsimple.json.0.9.3.1\lib\jsimple-json.dll" HashGuid="065421a7-0f31-7db8-e459-6c93a3ce0089" />
-    <ReferenceAssembly PathName="d:\assembly line 5-1 program\assembly\packages\jsimple.util.0.9.3.1\lib\jsimple-util.dll" HashGuid="2735c1f1-fd8b-ee27-05b3-528ec5460b58" />
-    <ReferenceAssembly PathName="d:\assembly line 5-1 program\assembly\packages\json-ld.net.1.0.4\lib\portable-net45+win8+wpa81\jsonld.portable.dll" HashGuid="e6662925-0fe2-50c0-a78f-a74ba03f367f" />
-    <ReferenceAssembly PathName="d:\assembly line 5-1 program\assembly\packages\moonmile.exdoc.json.0.6\lib\portable-win+net45+wp80+monoandroid10+monotouch10\moonmile.exdocpcl.json.dll" HashGuid="b2682bf5-c201-9502-76da-d803ce03edab" />
-    <ReferenceAssembly PathName="d:\assembly line 5-1 program\assembly\packages\newtonsoft.json.6.0.8\lib\netcore45\newtonsoft.json.dll" HashGuid="fd3dfcab-cf69-c796-78a2-2423dadb814b" />
-    <ReferenceAssembly PathName="d:\assembly line 5-1 program\assembly\packages\newtonsoft.json.interface.1.0.3\lib\netcore45\newtonsoft.json.interface.dll" HashGuid="dd47c7eb-4cbb-79a0-eecb-9fc9af2ab5d8" />
-    <ReferenceAssembly PathName="d:\assembly line 5-1 program\assembly\packages\xlabs.serialization.2.0.5605\lib\portable-net45+netcore45+wp8+monoandroid1+monotouch1\xlabs.serialization.dll" HashGuid="ae5ad85b-c6d5-c960-1e81-8053201fe910" />
-    <ReferenceAssembly PathName="d:\assembly line 5-1 program\assembly\packages\xlabs.serialization.json.2.0.5605\lib\portable-net45+netcore45+wp8+monoandroid1+monotouch1\xlabs.serialization.jsonnet.dll" HashGuid="707f3544-7e19-2a47-c54f-4e286f047d62" />
+    <ReferenceAssembly PathName="c:\users\saqer\documents\github\my-apps\3awz anam\packages\adduplexwin81.9.0.0.12\lib\portable-win81+wpa81\adduplex.universal.controls.win.xaml.winmd" HashGuid="31a6ec03-64e9-75e3-1468-b4384d8e019a" />
+    <ReferenceAssembly PathName="c:\users\saqer\documents\github\my-apps\3awz anam\packages\adduplexwin81.9.0.0.12\lib\portable-win81+wpa81\adduplex.universal.win.winrt.winmd" HashGuid="be5935fc-6448-8ca9-c5dd-0dd0025088b3" />
+    <ReferenceAssembly PathName="c:\users\saqer\documents\github\my-apps\3awz anam\packages\bingmapshelpers.uribuilder.1.0.1\lib\netcore45\bingmapshelpers.uribuilder.dll" HashGuid="4cfeacda-6f3c-7fa4-fda0-40f0a9c4925a" />
+    <ReferenceAssembly PathName="c:\users\saqer\documents\github\my-apps\3awz anam\packages\moonmile.exdoc.json.0.6\lib\portable-win+net45+wp80+monoandroid10+monotouch10\moonmile.exdocpcl.json.dll" HashGuid="b2682bf5-c201-9502-76da-d803ce03edab" />
+    <ReferenceAssembly PathName="c:\users\saqer\documents\github\my-apps\3awz anam\packages\newtonsoft.json.9.0.1\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="424e6aa8-ba94-c678-e707-af9fe9838e1a" />
+    <ReferenceAssembly PathName="c:\users\saqer\documents\github\my-apps\3awz anam\packages\xlabs.serialization.2.0.5782\lib\portable-net45+netcore45+wp8+monoandroid1+monotouch1\xlabs.serialization.dll" HashGuid="ae5ad85b-c6d5-c960-1e81-8053201fe910" />
+    <ReferenceAssembly PathName="c:\users\saqer\documents\github\my-apps\3awz anam\packages\xlabs.serialization.json.2.0.5782\lib\portable-net45+netcore45+wp8+monoandroid1+monotouch1\xlabs.serialization.jsonnet.dll" HashGuid="707f3544-7e19-2a47-c54f-4e286f047d62" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>

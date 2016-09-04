@@ -167,6 +167,19 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
   </ItemGroup>
+  <ItemGroup>
+    <Reference Include="AdDuplex.Universal.Controls.WinPhone.XAML, Version=9.0.0.12, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\AdDuplexWinPhone81.9.0.0.12\lib\portable-win81+wpa81\AdDuplex.Universal.Controls.WinPhone.XAML.winmd</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="AdDuplex.Universal.WinPhone.WinRT, Version=9.0.0.12, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\AdDuplexWinPhone81.9.0.0.12\lib\portable-win81+wpa81\AdDuplex.Universal.WinPhone.WinRT.winmd</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '12.0' ">
     <VisualStudioVersion>12.0</VisualStudioVersion>
   </PropertyGroup>
