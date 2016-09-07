@@ -16,7 +16,7 @@ using Windows.UI.Xaml.Navigation;
 using assembly.Model;
 using Windows.UI.Xaml.Media.Imaging;
 using Windows.Devices.Geolocation;
-using Bing.Maps;
+using BingMapsHelpers;
 
 // The Basic Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=234237
 

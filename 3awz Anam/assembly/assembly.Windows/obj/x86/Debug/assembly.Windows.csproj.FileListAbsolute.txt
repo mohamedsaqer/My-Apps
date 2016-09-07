@@ -82,3 +82,36 @@ D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\bin\x86\Debug\Ne
 D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\bin\x86\Debug\Newtonsoft.Json.Interface.xml
 D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\bin\x86\Debug\XLabs.Serialization.xml
 D:\Assembly Line 5-1 Program\assembly\assembly\assembly.Windows\bin\x86\Debug\XLabs.Serialization.JsonNET.xml
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\assembly.Windows.exe
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\assembly.Windows.pdb
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\assembly.Windows.csprojResolveAssemblyReference.cache
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\App.g.i.cs
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\App.g.cs
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\about.g.i.cs
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\about.g.cs
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\HotelPage.g.i.cs
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\HotelPage.g.cs
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\MainPage.g.cs
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\MapPage.g.i.cs
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\MapPage.g.cs
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\SearchResultsPage.g.i.cs
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\SearchResultsPage.g.cs
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\WebPageView.g.i.cs
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\WebPageView.g.cs
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\App.xaml
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\about.xaml
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\HotelPage.xaml
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\MainPage.xaml
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\MapPage.xaml
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\SearchResultsPage.xaml
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\WebPageView.xaml
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\App.xbf
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\about.xbf
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\HotelPage.xbf
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\MainPage.xbf
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\MapPage.xbf
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\SearchResultsPage.xbf
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\WebPageView.xbf
+C:\Users\saqer\Documents\GitHub\My-Apps\3awz Anam\assembly\assembly.Windows\obj\x86\Debug\XamlSaveStateFile.xml

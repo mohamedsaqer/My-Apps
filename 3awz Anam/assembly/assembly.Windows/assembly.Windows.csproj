@@ -107,17 +107,8 @@
   </PropertyGroup>
   <ItemGroup>
     <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
-    <SDKReference Include="AdDuplex.Win.Extension, Version=9.0.0.4">
-      <Name>AdDuplex SDK for Windows 8.1 %28XAML edition%29</Name>
-    </SDKReference>
-    <SDKReference Include="Bing.Maps.Xaml, Version=1.313.0825.0">
-      <Name>Bing Maps for C#, C++, or Visual Basic</Name>
-    </SDKReference>
     <SDKReference Include="Microsoft.VCLibs, version=12.0">
       <Name>Microsoft Visual C++ 2013 Runtime Package for Windows</Name>
-    </SDKReference>
-    <SDKReference Include="MSAdvertisingXaml, Version=8.1">
-      <Name>Microsoft Advertising SDK for Windows 8.1 %28Xaml%29</Name>
     </SDKReference>
   </ItemGroup>
   <ItemGroup>
