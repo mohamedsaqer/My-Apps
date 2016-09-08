@@ -20,26 +20,11 @@ namespace سبحتى_حياتى.Views
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
     /// </summary>
-    public sealed partial class Home_Page : Page
+    public sealed partial class Settings_Page : Page
     {
-        int x = 0;
-        public Home_Page()
+        public Settings_Page()
         {
             this.InitializeComponent();
         }
-
-        private void Add_Click(object sender, RoutedEventArgs e)
-        {
-            x++;
-            screen.Text = x+"";
-        }
-
-        private void Reset_Click(object sender, RoutedEventArgs e)
-        {
-            x = 0;
-            screen.Text = x+"";
-            name.Text = menu.SelectedItem.ToString();
-        }
-        
     }
 }

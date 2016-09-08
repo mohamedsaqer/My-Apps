@@ -10,18 +10,33 @@
 
     <Grid Background="Brown">
         <Grid.RowDefinitions>
-            <RowDefinition Height="2*"/>
-            <RowDefinition Height="3*"/>
             <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="3*"/>
         </Grid.RowDefinitions>
-        <Grid Grid.Row="1">
-            <Button Width="200" Height="200" Background="Transparent" HorizontalAlignment="Center">
-            <Border Width="180" Height="183" CornerRadius="150" Background="Red" />
+        <Grid Grid.Row="2">
+            <Button Width="200" Height="200" Background="Transparent" HorizontalAlignment="Center" Click="Add_Click">
+                <Border Width="179" Height="183" CornerRadius="150" Background="Red">
+                    <TextBlock x:Name="name" Text="" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center" FontFamily="Arial"/>
+                </Border>
             </Button>
-            <Button Width="72" Height="65" Background="Transparent" VerticalAlignment="Bottom" HorizontalAlignment="Left" Margin="10,0,0,10">
-            <Border Width="52" Height="52" CornerRadius="25" Background="White"/>
+            <Button Width="72" Height="65" Background="Transparent" VerticalAlignment="Bottom" Click="Reset_Click" HorizontalAlignment="Left" Margin="30,0,0,30">
+            <Border Width="50" Height="52" CornerRadius="25" Background="White"/>
             </Button>
         </Grid>
-        
+        <Grid Grid.Row="1">
+            <Border Height="80" Width="300" CornerRadius="25" Background="Wheat">
+                <TextBlock x:Name="screen" Text="0" VerticalAlignment="Center" HorizontalAlignment="Center" FontFamily="Arial" FontSize="55"/>
+            </Border>
+        </Grid>
+        <Grid Grid.Row="0">
+            <ComboBox x:Name="menu" VerticalAlignment="Center" HorizontalAlignment="Center" Height="40" Width="350">
+                <ComboBoxItem Content="25" />
+                <ComboBoxItem Content="250" />
+                <ComboBoxItem Content="2500" />
+                <ComboBoxItem Content="25000" />
+                <ComboBoxItem Content="250000" />
+            </ComboBox>
+        </Grid>
     </Grid>
 </Page>

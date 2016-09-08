@@ -51,10 +51,9 @@
                         <AdaptiveTrigger MinWindowWidth="400"/>
                     </VisualState.StateTriggers>
                     <VisualState.Setters>
-                        <Setter Target="MySplitViev.DisplayMode" Value="Overlay" />
-                        <Setter Target="MySplitViev.IsPaneOpen" Value="False" />
-                        <Setter Target="myweb.Height" Value="655"/>
-                        <Setter Target="hhh.Width" Value="300"/>
+                        <Setter Target="MySplitViev.DisplayMode" Value="Inline" />
+                        <Setter Target="MySplitViev.IsPaneOpen" Value="True" />
+                        
                     </VisualState.Setters>
                 </VisualState>
             </VisualStateGroup>
@@ -70,25 +69,25 @@
                     <ScrollViewer x:Name="ScenarioControl" ScrollViewer.VerticalScrollMode="Enabled" ScrollViewer.VerticalScrollBarVisibility="Auto">
                         <StackPanel Orientation="Vertical">
                             <!--Home-->
-                            <RadioButton x:Name="HomeRadioBtn" Content="Home" Click="Home_Click" GroupName="Split" Width="330">
+                            <RadioButton x:Name="HomeRadioBtn" Content="سبحتى" Click="Home_Click" GroupName="Split" Width="330">
                                 <RadioButton.Tag>
                                     <TextBlock Text=""/>
                                 </RadioButton.Tag>
                             </RadioButton>
                             <!--Home-->
-                            <RadioButton x:Name="HomeRadioBtn1" Content="Home" Click="Home_Click" GroupName="Split" Width="330">
+                            <RadioButton x:Name="HomeRadioBtn1" Content="أذكار بعد الصلاة" Click="Home_Click" GroupName="Split" Width="330">
                                 <RadioButton.Tag>
                                     <TextBlock Text=""/>
                                 </RadioButton.Tag>
                             </RadioButton>
                             <!--Home-->
-                            <RadioButton x:Name="HomeRadioBtn2" Content="Home" Click="Home_Click" GroupName="Split" Width="330">
+                            <RadioButton x:Name="HomeRadioBtn2" Content="أذكار الصباح و المساء" Click="Home_Click" GroupName="Split" Width="330">
                                 <RadioButton.Tag>
                                     <TextBlock Text=""/>
                                 </RadioButton.Tag>
                             </RadioButton>
                             <!--Home-->
-                            <RadioButton x:Name="HomeRadioBtn3" Content="Home" Click="Home_Click" GroupName="Split" Width="330">
+                            <RadioButton x:Name="HomeRadioBtn3" Content="التسابيح اليومية" Click="Home_Click" GroupName="Split" Width="330">
                                 <RadioButton.Tag>
                                     <TextBlock Text=""/>
                                 </RadioButton.Tag>
@@ -98,7 +97,7 @@
                     <StackPanel x:Name="FooterPanel" Orientation="Vertical" RelativePanel.AlignBottomWithPanel="True">
                         <Rectangle Width="350" Height="2" Fill="Black"/>
                         <!--Settings-->
-                        <RadioButton x:Name="SettingsRadioBtn" Content="Settings" Click="Home_Click" GroupName="Split" Width="330">
+                        <RadioButton x:Name="SettingsRadioBtn" Content="الأعدادات" Click="Home_Click" GroupName="Split" Width="330">
                             <RadioButton.Tag>
                                 <TextBlock Text=""/>
                             </RadioButton.Tag>

@@ -31,7 +31,7 @@ namespace سبحتى_حياتى
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
             this.MyFrame.Navigate(typeof(Views.Home_Page));
-            Header.Text = "Home";
+            Header.Text = "سبحتى";
         }
         private void Home_Click(object sender, RoutedEventArgs e)
         {
@@ -40,8 +40,20 @@ namespace سبحتى_حياتى
             {
                 switch (button.Content.ToString())
                 {
-                    case "About":
-                  //      About.about();
+                    case "سبحتى":
+                        this.MyFrame.Navigate(typeof(Views.Home_Page));
+                        break;
+                    case "أذكار بعد الصلاة":
+                        this.MyFrame.Navigate(typeof(Views.After_Page));
+                        break;
+                    case "أذكار الصباح و المساء":
+                        this.MyFrame.Navigate(typeof(Views.Morning_Page));
+                        break;
+                    case "التسابيح اليومية":
+                        this.MyFrame.Navigate(typeof(Views.Daily_Page));
+                        break;
+                    case "الأعدادات":
+                        this.MyFrame.Navigate(typeof(Views.Settings_Page));
                         break;
                 }
                 MySplitViev.IsPaneOpen = false;
