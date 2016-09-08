@@ -25,6 +25,33 @@ namespace سبحتى_حياتى
         public MainPage()
         {
             this.InitializeComponent();
+            MySplitViev.IsPaneOpen = false;
+            MySplitViev.DisplayMode = SplitViewDisplayMode.Inline;
         }
+        protected override void OnNavigatedTo(NavigationEventArgs e)
+        {
+            this.MyFrame.Navigate(typeof(Views.Home_Page));
+            Header.Text = "Home";
+        }
+        private void Home_Click(object sender, RoutedEventArgs e)
+        {
+            var button = sender as RadioButton;
+            if (button != null)
+            {
+                switch (button.Content.ToString())
+                {
+                    case "About":
+                  //      About.about();
+                        break;
+                }
+                MySplitViev.IsPaneOpen = false;
+                Header.Text = button.Content.ToString();
+            }
+        }
+        private void SplitTogleBtn_Click(object sender, RoutedEventArgs e)
+        {
+            MySplitViev.IsPaneOpen = !MySplitViev.IsPaneOpen;
+        }
+
     }
 }
