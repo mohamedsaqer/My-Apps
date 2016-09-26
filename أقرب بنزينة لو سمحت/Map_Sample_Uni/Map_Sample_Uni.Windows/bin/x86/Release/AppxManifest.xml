@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="28580ENGMOHAMEDELSAQER.226331B3270CA" Publisher="CN=C7207DFD-8768-4CF1-AE91-F6BEBE9EA61D" Version="1.1.0.1" ProcessorArchitecture="x86" />
+  <Identity Name="28580ENGMOHAMEDELSAQER.226331B3270CA" Publisher="CN=C7207DFD-8768-4CF1-AE91-F6BEBE9EA61D" Version="1.1.0.5" ProcessorArchitecture="x86" />
   <Properties>
     <DisplayName>أقرب بنزينة لو سمحت</DisplayName>
     <PublisherDisplayName>ENG MOHAMED EL_SAQER</PublisherDisplayName>
@@ -40,101 +40,139 @@
     <Extension Category="windows.activatableClass.inProcessServer">
       <InProcessServer>
         <Path>CLRHost.dll</Path>
-        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Controls.Win.XAML.AdDuplex_Universal_Controls_Win_XAML_XamlTypeInfo.XamlMetaDataProvider" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Controls.Win.XAML.Tracking.AdDuplexTrackingSDK" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="AdDuplex.Universal.Controls.Win.XAML.AdControl" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Controls.Win.XAML.AdDuplex_Universal_Controls_Win_XAML_XamlTypeInfo.XamlMetaDataProvider" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Models.InterstitialAdLoadedEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Models.InterstitialAdLoadingErrorEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Models.InterstitialControlSettings" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Models.AdLoadedEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Models.InterstitialCachedAd" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Models.InstallationInfo" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Models.InterstitialImageLoadedEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Models.AdLoadingErrorEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Models.InterstitialInstallationInfo" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Models.AdClickEventArgs" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Models.ControlSettings" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Models.InterstitialAdInfo" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Models.InstallationInfo" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Models.InterstitialCachedAd" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Models.InterstitialInstallationInfo" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Models.CachedAd" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Models.ImageLoadedEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Models.InterstitialAdClickEventArgs" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Models.AdInfo" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Models.InterstitialControlSettings" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Models.CachedAd" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Models.NoAdEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Core.AdCacher" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Core.SettingsManager" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Core.InterstitialAdCacher" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Core.NetworkManager" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Core.InterstitialNetworkManager" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Core.AdCoveredEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Core.AdSizeToSizeConverter" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Core.DialogHelper" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Core.ActionManager" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Core.AdSizeToSizeConverter" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Microsoft.Advertising.WinRT.UI.AdControl" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Microsoft.Advertising.WinRT.UI.AdSettingsFlyout" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Microsoft.Advertising.WinRT.UI.XamlAdControl_XamlTypeInfo.XamlMetaDataProvider" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.JSONWrapper" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.WinRT.SdkInfoProvider" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.WinRT.AdErrorEventArgs" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.WinRT.AdEventArgs" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.WinRT.UserInfoProvider" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.WinRT.AdPlacement" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.WinRT.Advertisement" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="MicrosoftAdvertising.Shared.WinRT.RendererOptions" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Core.ScreenHelper" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Core.InterstitialSettingsManager" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="AdDuplex.Universal.Win.WinRT.Core.InterstitialNetworkManager" ThreadingModel="both" />
       </InProcessServer>
     </Extension>
     <Extension Category="windows.activatableClass.inProcessServer">
       <InProcessServer>
         <Path>Bing.Maps.dll</Path>
-        <ActivatableClass ActivatableClassId="Bing.Maps.MapShapeLayerCollection" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.TargetViewChangedEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.LocationCollection" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="Bing.Maps.CopyrightChangedEventArgs" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.Map" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.Location" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.MapShapeCollection" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.AccessibleContainer" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.MapPolyline" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.MapUIElementCollection" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.MapItemsControl" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.MapTileLayerCollection" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.LocationRect" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="Bing.Maps.Traffic.TrafficIncidentCollection" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.Traffic.TrafficIncidentRequestOptions" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="Bing.Maps.Traffic.TrafficIncidentPushpinOptions" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.TransitRouteDataSource" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.NamesCollection" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.RouteLegDataSource" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.DirectionsPushpinRenderOptions" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.HintCollection" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.ItineraryItemDetailsCollection" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.RouteLegCollection" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.DirectionsPolylineRenderOptions" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.RouteCollection" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.LocationDisambiguationCollection" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.SignCollection" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.TransitLineCollection" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.DirectionsRequestOptions" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.DirectionsContainerSelector" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.ItineraryItemCollection" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.WarningCollection" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.DirectionsUIEventManager" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.DirectionsRenderOptions" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.RouteLegDataTemplateSelector" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.WaypointCollection" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.ViewChangeStartedEventArgs" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.Pushpin" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.MapMultiPoint" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.Bing_Maps_XamlTypeInfo.XamlMetaDataProvider" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.MapShapeLayerCollection" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="Bing.Maps.MapAnimationDuration" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="Bing.Maps.MapLayer" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="Bing.Maps.LocationRectCollection" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.ViewChangeEndedEventArgs" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.MapTileLayerCollection" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.TileDownloadCompletedEventArgs" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.MapShapeLayer" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.LocationCollection" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.Bing_Maps_XamlTypeInfo.XamlMetaDataProvider" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.LandmarkCollection" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.MapPolygon" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.LocationRect" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.VenueMaps.VenueEntityCollection" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.VenueMaps.VenueCountryCollection" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.VenueMaps.FloorCollection" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.VenueMaps.NearbyVenueOptions" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.VenueMaps.VenueByCountryOptions" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.VenueMaps.VenueFloorDataSource" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.VenueMaps.ActiveFloorChangedEventArgs" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.VenueMaps.ActiveVenueChangedEventArgs" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.VenueMaps.VenueByCountryCollection" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.VenueMaps.NearbyVenueCollection" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.CustomListView" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.TransitRouteCollection" ThreadingModel="both" />
-        <ActivatableClass ActivatableClassId="Bing.Maps.MapTileLayer" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="Bing.Maps.ViewChangedEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.MapPolyline" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.PushpinAutomationPeer" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.ViewChangeStartedEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.LandmarkTappedEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.MapTileLayer" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.MapShape" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.MapPolygon" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.TransitRouteCollection" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.TileServersAvailabilityChangedEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.VenueMaps.NearbyVenueCollection" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.VenueMaps.FloorCollection" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.VenueMaps.ActiveFloorChangedEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.VenueMaps.VenueCountryCollection" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.VenueMaps.VenueByCountryOptions" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.VenueMaps.VenueByCountryCollection" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.VenueMaps.VenueEntityCollection" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.VenueMaps.VenueFloorDataSource" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.VenueMaps.ActiveVenueChangedEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.VenueMaps.NearbyVenueOptions" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.AccessibleContainer" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.ViewChangeEndedEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.LandmarkCollection" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.Location" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.TileDownloadCompletedEventArgs" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="Bing.Maps.MapStyleChangedEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.CustomListView" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.MapItemsControl" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.Map" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.MapAddress" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.PanelBase" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.TargetViewChangedEventArgs" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="Bing.Maps.Search.GeocodePointCollection" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.Search.ReverseGeocodeRequestOptions" ThreadingModel="both" />
         <ActivatableClass ActivatableClassId="Bing.Maps.Search.GeocodeLocationCollection" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.Search.GeocodeRequestOptions" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.Pushpin" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.MapUIElementCollection" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.MapShapeLayer" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.RouteLegCollection" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.TransitLineCollection" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.DirectionsUIEventManager" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.SignCollection" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.Waypoint" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.NamesCollection" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.HintCollection" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.WaypointCollection" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.DirectionsContainerSelector" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.RouteCollection" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.RouteLegDataSource" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.LocationDisambiguationCollection" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.RouteLegDataTemplateSelector" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.ItineraryItemCollection" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.DirectionsRenderOptions" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.DirectionsRequestOptions" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.DirectionsPushpinRenderOptions" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.ItineraryItemDataSource" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.DirectionsPolylineRenderOptions" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.WarningCollection" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.ItineraryItemDetailsCollection" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.Directions.TransitRouteDataSource" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.MapAutomationPeer" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Bing.Maps.MapShapeCollection" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>UniversalXamlAdControl.Windows.dll</Path>
+        <ActivatableClass ActivatableClassId="Microsoft.Advertising.UniversalXamlAdControl_Windows_XamlTypeInfo.XamlMetaDataProvider" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Advertising.WinRT.UI.InterstitialAd" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Advertising.WinRT.UI.ExpandProperties" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Advertising.WinRT.UI.AdControl" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Advertising.WinRT.UI.ManipulationStateChangedEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Advertising.Shared.WinRT.AdErrorEventArgs" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Advertising.Shared.WinRT.EventLogging" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Advertising.Shared.WinRT.Advertisement" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Advertising.Shared.WinRT.HttpClient" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Advertising.Shared.WinRT.AdScheduler" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Advertising.Shared.WinRT.UserUtils" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Advertising.Shared.WinRT.AdTagCollection" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Advertising.Shared.WinRT.AdErrorReport" ThreadingModel="STA" />
+        <ActivatableClass ActivatableClassId="Microsoft.Advertising.Shared.WinRT.AdPlacement" ThreadingModel="STA" />
+        <ActivatableClass ActivatableClassId="Microsoft.Advertising.Shared.WinRT.AdExtension" ThreadingModel="both" />
+        <ActivatableClass ActivatableClassId="Microsoft.Advertising.Shared.WinRT.SdkInfoProvider" ThreadingModel="both" />
       </InProcessServer>
     </Extension>
   </Extensions>
@@ -142,15 +180,15 @@
     <build:Item Name="SharedGUID" Value="905ff7a6-6c46-4570-afb7-d4264bd5000f" />
     <build:Item Name="CodeSharingProject" Value="248F659F-DAC5-46E8-AC09-60EC9FC95053" />
     <build:Item Name="TargetFrameworkMoniker" Value=".NETCore,Version=v4.5.1" />
-    <build:Item Name="VisualStudio" Version="12.0" />
-    <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Ultimate 2013" />
-    <build:Item Name="OperatingSystem" Version="6.3.9600.16384 (winblue_rtm.130821-1623)" />
-    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="12.0.31101.0" />
+    <build:Item Name="VisualStudio" Version="14.0" />
+    <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Enterprise 2015" />
+    <build:Item Name="OperatingSystem" Version="10.0.14393.0 (rs1_release.160715-1616)" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="14.0.25431.1" />
     <build:Item Name="ProjectGUID" Value="{0D4AD7FE-339D-4E91-A1A3-514D875EA7C9}" />
-    <build:Item Name="Microsoft.Windows.UI.Xaml.Build.Tasks.dll" Version="12.0.30501.0" />
+    <build:Item Name="Microsoft.Windows.UI.Xaml.81.Build.Tasks.dll" Version="14.0.22705.1" />
     <build:Item Name="AdDuplex.Win.Extension" Version="9.0.0.5" />
     <build:Item Name="Bing.Maps.Xaml" Version="1.313.0825.0" />
-    <build:Item Name="MSAdvertisingXaml" Version="8.1" />
+    <build:Item Name="Microsoft.AdMediatorWindows81" Version="1.0" />
     <build:Item Name="MakePri.exe" Version="6.3.9600.17336 (winblue.150226-1500)" />
   </build:Metadata>
 </Package>

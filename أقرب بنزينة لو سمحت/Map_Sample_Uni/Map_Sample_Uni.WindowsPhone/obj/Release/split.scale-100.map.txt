@@ -3,8 +3,8 @@
 "ResourceDimensions"		"scale-100"
 
 [Files]
-"C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Release\split.scale-100.pri"			"resources.pri"
-"C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Release\PackageLayout\Assets\WideLogo.scale-100.png"			"Assets\WideLogo.scale-100.png"
-"C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Release\PackageLayout\Assets\Square71x71Logo.scale-100.png"			"Assets\Square71x71Logo.scale-100.png"
-"C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Release\PackageLayout\Assets\SmallLogo.scale-100.png"			"Assets\SmallLogo.scale-100.png"
-"C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Release\PackageLayout\Assets\Logo.scale-100.png"			"Assets\Logo.scale-100.png"
+"C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Release\split.scale-100.pri"			"resources.pri"
+"C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Release\PackageLayout\Assets\WideLogo.scale-100.png"			"Assets\WideLogo.scale-100.png"
+"C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Release\PackageLayout\Assets\Square71x71Logo.scale-100.png"			"Assets\Square71x71Logo.scale-100.png"
+"C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Release\PackageLayout\Assets\SmallLogo.scale-100.png"			"Assets\SmallLogo.scale-100.png"
+"C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Release\PackageLayout\Assets\Logo.scale-100.png"			"Assets\Logo.scale-100.png"

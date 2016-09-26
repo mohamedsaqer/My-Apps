@@ -3,4 +3,4 @@
 "ResourceDimensions"		"language-uk"
 
 [Files]
-"C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Release\split.language-uk.pri"			"resources.pri"
+"C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Release\split.language-uk.pri"			"resources.pri"

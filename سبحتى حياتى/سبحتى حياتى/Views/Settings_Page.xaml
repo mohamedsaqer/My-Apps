@@ -5,9 +5,25 @@
     xmlns:local="using:سبحتى_حياتى.Views"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FlowDirection="RightToLeft"
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-
+        <Pivot>
+            <PivotItem Header="الأعدادات العامة">
+                <StackPanel Orientation="Vertical">
+                    <TextBlock Text=""/>
+                    <RadioButton Click="Radio1_Click">
+                    Light
+                </RadioButton>
+                <RadioButton Click="Radio2_Click">
+                    Dark
+                </RadioButton>
+                </StackPanel>
+            </PivotItem>
+            <PivotItem Header="عن التطبيق">
+                
+            </PivotItem>
+        </Pivot>
     </Grid>
 </Page>

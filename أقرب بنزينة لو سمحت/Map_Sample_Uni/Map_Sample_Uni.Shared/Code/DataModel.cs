@@ -127,6 +127,9 @@ namespace Map_Sample_Uni.Code
             CairoPO.Add(new PoliceOfficeModel() { Id_Office = 99, OfficeName = "Npco التجمع الاول ", Latitude = 30.049436, Longitude = 31.441389, notes = " " });
             CairoPO.Add(new PoliceOfficeModel() { Id_Office = 100, OfficeName = "مصر للبترول بيجام ", Latitude = 30.119019, Longitude = 31.258190, notes = " " });
             CairoPO.Add(new PoliceOfficeModel() { Id_Office = 101, OfficeName = "موبيل الخلفاوى ", Latitude = 30.097394, Longitude = 31.245734, notes = "Mobil Market " });
+            CairoPO.Add(new PoliceOfficeModel() { Id_Office = 101, OfficeName = "التعاون النجدة  ", Latitude = 29.961281, Longitude = 30.929976, notes = " " });
+            CairoPO.Add(new PoliceOfficeModel() { Id_Office = 101, OfficeName = " Total الحصرى ", Latitude = 29.971788, Longitude = 30.944490, notes = "" });
+
             _governrateList.Add(new DataModel() { Id_Governrate = 0, GovernrateName = "القاهرة الكبرى", GovernrateImg = "/Assets/Logos/awhite.png", POfficeList = CairoPO });
             #endregion
             #region Alex  2

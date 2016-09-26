@@ -37,28 +37,28 @@ namespace Map_Sample_Uni
         //facebook tap
         private void Image_Tapped(object sender, TappedRoutedEventArgs e)
         {
-            var uri = new Uri("https://www.facebook.com/EGAppFactory");
+            var uri = new Uri("https://www.facebook.com/realmohamedsaqer");
             IAsyncOperation<bool> x = Windows.System.Launcher.LaunchUriAsync(uri);
         }
 
         //facebook tap
         private void TextBlock_Tapped_1(object sender, TappedRoutedEventArgs e)
         {
-            var uri = new Uri("https://www.facebook.com/EGAppFactory");
+            var uri = new Uri("https://www.facebook.com/realmohamedsaqer");
             IAsyncOperation<bool> x = Windows.System.Launcher.LaunchUriAsync(uri);
         }
 
         //twitter tap
         private void Image_Tapped_1(object sender, TappedRoutedEventArgs e)
         {
-            var uri = new Uri("https://twitter.com/EGAppFactory");
+            var uri = new Uri("https://twitter.com/realmohmedsaqer");
             IAsyncOperation<bool> x = Windows.System.Launcher.LaunchUriAsync(uri);
         }
 
         //twitter tap
         private void TextBlock_Tapped_2(object sender, TappedRoutedEventArgs e)
         {
-            var uri = new Uri("https://twitter.com/EGAppFactory");
+            var uri = new Uri("https://twitter.com/realmohmedsaqer");
             IAsyncOperation<bool> x = Windows.System.Launcher.LaunchUriAsync(uri);
         }
     }

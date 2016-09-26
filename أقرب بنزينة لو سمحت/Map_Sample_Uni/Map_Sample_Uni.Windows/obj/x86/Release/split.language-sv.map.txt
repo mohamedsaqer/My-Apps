@@ -1,7 +1,6 @@
 ﻿[ResourceMetadata]
 "ResourceId"			"split.language-sv"
 "ResourceDimensions"		"language-sv-se"
-"ResourceDimensions"		"language-sv"
 
 [Files]
-"C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Release\split.language-sv.pri"			"resources.pri"
+"C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.Windows\obj\x86\Release\split.language-sv.pri"			"resources.pri"

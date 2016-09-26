@@ -282,8 +282,6 @@ namespace Map_Sample_Uni.Map_Sample_Uni_WindowsPhone_XamlTypeInfo
                     global::Windows.UI.Xaml.Markup.IXamlMetadataProvider provider;
                     provider = new global::AdDuplex.Universal.Controls.WinPhone.XAML.AdDuplex_Universal_Controls_WinPhone_XAML_XamlTypeInfo.XamlMetaDataProvider() as global::Windows.UI.Xaml.Markup.IXamlMetadataProvider;
                     _otherProviders.Add(provider); 
-                    provider = new global::Microsoft.Advertising.Mobile.UI.UI_XamlTypeInfo.XamlMetaDataProvider() as global::Windows.UI.Xaml.Markup.IXamlMetadataProvider;
-                    _otherProviders.Add(provider); 
                 }
                 return _otherProviders;
             }

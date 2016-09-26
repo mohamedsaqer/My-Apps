@@ -26,5 +26,16 @@ namespace سبحتى_حياتى.Views
         {
             this.InitializeComponent();
         }
+
+        private void Radio1_Click(object sender, RoutedEventArgs e)
+        {
+            //AppSettings.LoadSettings();
+            this.RequestedTheme = ElementTheme.Light;
+        }
+
+        private void Radio2_Click(object sender, RoutedEventArgs e)
+        {
+            this.RequestedTheme = ElementTheme.Dark;
+        }
     }
 }

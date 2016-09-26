@@ -232,18 +232,18 @@
                 <!--app name-->
                 <TextBlock Grid.Row="0" Text="أقرب بنزينة لو سمحت" Foreground="#FF0095DA" FontSize="30" Margin="12,0,0,0" HorizontalAlignment="Left" FontWeight="Bold" FlowDirection="RightToLeft"/>
                 <!--developer name-->
-                <TextBlock Grid.Row="1" Text="By: MOHAMED EL_SAQER" FontSize="20" FontWeight="ExtraBold" Margin="12,0,0,0" HorizontalAlignment="Left" Foreground="Blue" />
+                <TextBlock Grid.Row="1" Text="By: Mohamed Saqer" FontSize="20" FontWeight="ExtraBold" Margin="12,0,0,0" HorizontalAlignment="Left" Foreground="Blue" />
                 <!--app version-->
-                <TextBlock Grid.Row="2" Foreground="Black" Text="Version 1.0.0.0" FontSize="15" FontWeight="ExtraLight" Margin="12,0,0,0"/>
+                <TextBlock Grid.Row="2" Foreground="Black" Text="Version 1.2.9.25" FontSize="15" FontWeight="ExtraLight" Margin="12,0,0,0"/>
             </Grid>
             <Image Width="100" Height="100" VerticalAlignment="Top" HorizontalAlignment="Right" Source="Assets/Square71x71Logo.png" Margin="10"/>
         </Grid>
         <!--app description-->
         <TextBlock Grid.Row="2" Foreground="Black" Text="هذا التطبيق يساعدك على الوصول لأقرب بنزينة منك بسرعة و سهولة عن طريق تحديد مكانك و اماكن البنزينات المحيطة بك و رسم الطريق لأقرب واحدة. كما يساعدك على معرفة الخدمات التى تقدمها البنزينة. و كمان لوعايز بنزينة معينة هيعرفك توصلها ازاى على الخريطة و يعرفك عنوانه بالكامل." FontSize="20" Margin="12" TextAlignment="Left" TextWrapping="Wrap" FontWeight="ExtraLight" FlowDirection="RightToLeft"/>
         <!--universty name-->
-        <TextBlock Grid.Row="3" Foreground="#FF0095DA" Text="Univerrsity Name : Benha " FontSize="20" HorizontalAlignment="Left" FontWeight="ExtraLight" Margin="12,0,0,0"/>
-        <TextBlock Grid.Row="4" Text="Assembly Line 5-1 Program - Trainee" FontSize="15" HorizontalAlignment="Left"  FontWeight="ExtraLight" Margin="12,0,0,0" Width="330" Foreground="Black" />
-        <StackPanel Grid.Row="5" Orientation="Horizontal" Margin="30" >
+        <TextBlock Grid.Row="3" Foreground="#FF0095DA" Text="" FontSize="20" HorizontalAlignment="Left" FontWeight="ExtraLight" Margin="12,0,0,0"/>
+        <TextBlock Grid.Row="4" Text="" FontSize="15" HorizontalAlignment="Left"  FontWeight="ExtraLight" Margin="12,0,0,0" Width="330" Foreground="Black" />
+        <!--<StackPanel Grid.Row="5" Orientation="Horizontal" Margin="30" >
             <Image x:Name="image" Height="50" Source="Assets/about/Logo Icon2.png" RenderTransformOrigin="0.5,0.5">
                 <Image.RenderTransform>
                     <CompositeTransform/>
@@ -259,7 +259,7 @@
                     <CompositeTransform/>
                 </Image.RenderTransform>
             </Image>
-        </StackPanel>
+        </StackPanel>-->
         <TextBlock Grid.Row="6" Foreground="#FF0095DA" TextWrapping="Wrap" Text="Your Future goes here;" FontSize="24" FontWeight="ExtraLight"/>
         <Grid Grid.Row="7">
             <Grid.RowDefinitions>
@@ -273,8 +273,8 @@
             </Grid.ColumnDefinitions>
             <Image Grid.Row="0" Grid.Column="0" Source="Assets/about/FBL.png" Height="30" Margin="5" Tapped="Image_Tapped"/>
             <Image Grid.Row="0" Grid.Column="2" Source="Assets/about/TL.png" Height="30" Margin="5" Tapped="Image_Tapped_1"/>
-            <TextBlock Grid.Row="0" Grid.Column="1" Text="/EGAppFactory" FontSize="13" Foreground="#FF0095DA" VerticalAlignment="Center" Tapped="TextBlock_Tapped_1"/>
-            <TextBlock Grid.Row="0" Grid.Column="4" Text="#EgAppFactory" FontSize="13" Foreground="#FF0095DA" VerticalAlignment="Center" Tapped="TextBlock_Tapped_2"/>
+            <TextBlock Grid.Row="0" Grid.Column="1" Text="/realmohamedsaqer" FontSize="13" Foreground="#FF0095DA" VerticalAlignment="Center" Tapped="TextBlock_Tapped_1"/>
+            <TextBlock Grid.Row="0" Grid.Column="4" Text="@realmohmedsaqer" FontSize="13" Foreground="#FF0095DA" VerticalAlignment="Center" Tapped="TextBlock_Tapped_2"/>
         </Grid>
 
     </Grid>

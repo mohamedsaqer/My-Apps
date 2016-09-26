@@ -9,20 +9,10 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
     <Page.BottomAppBar>
-
-        <CommandBar x:Name="myCommandBar"
-                    Opacity=".7"
-                    ClosedDisplayMode="Minimal"
-                    IsSticky="True">
-            <CommandBar.PrimaryCommands>
-                <AppBarButton x:ConnectionId='1' Label="Nearest"
-                              Icon="Directions"
-                                                             
-                              Foreground="#FFDDFF08" />
+        <CommandBar ClosedDisplayMode="Minimal">
+                <AppBarButton x:ConnectionId='1' Label="الأقرب" Icon="Directions"                                />
                 <AppBarButton x:ConnectionId='2' Icon="Important" Label="about"                            />
-            </CommandBar.PrimaryCommands>
         </CommandBar>
-
     </Page.BottomAppBar>
     <Grid>
         <Grid.RowDefinitions>
@@ -40,14 +30,16 @@
                       ItemsSource="{Binding}"
                       FontSize="20"
                       Background="#FFB9CFEB"
+                      Foreground="Black"
                                                                    >
                 <ListView.ItemTemplate>
                     <DataTemplate>
-                            <Border BorderBrush="White" Background="White" Width="350" Height="32">
+                            <Border BorderBrush="White" Background="White" Width="500" Height="32" HorizontalAlignment="Center">
                                 <StackPanel>
                                     <TextBlock Text="{Binding PlaceName}"
-                                       Margin="10,0,0,0"
+                                       Margin="0"
                                        FontSize="20"
+                                       FlowDirection="RightToLeft"
                                        VerticalAlignment="Center" HorizontalAlignment="Center"
                                        Foreground="Blue"
                                        SelectionHighlightColor="Black" />
@@ -57,10 +49,10 @@
                 </ListView.ItemTemplate>
             </ListView>
         </PivotItem>
-            <PivotItem >
+        <PivotItem >
             <Grid >
-                <ProgressRing x:Name="Pbar" Height="164" Grid.Column="0" Foreground="Black" Width="47" Background="Yellow" />
-                <Maps:MapControl Name="MyMap" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+                <ProgressRing x:Name="Pbar" Height="164" Grid.Column="0" IsActive="True" Foreground="Black" Width="47" Background="Yellow" />
+                    <Maps:MapControl Name="MyMap" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" MapServiceToken="EC-8prFpbXL4-FpT0rJ3Ig"/>
                 <Popup 
                     FlowDirection="RightToLeft"
                     Width="400"

@@ -1,3 +1,3 @@
-MainPackage=C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Release\Map_Sample_Uni.WindowsPhone_1.1.0.0_Bundle\Map_Sample_Uni.WindowsPhone_1.1.0.0_AnyCPU.appx
-SymbolPackage=C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\AppPackages\Map_Sample_Uni.WindowsPhone_1.1.0.0_Test\Map_Sample_Uni.WindowsPhone_1.1.0.0_AnyCPU.appxsym
-ResourcePack=C:\Users\ENG MOHAMED EL_SAQER\Desktop\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Release\Map_Sample_Uni.WindowsPhone_1.1.0.0_Bundle\Map_Sample_Uni.WindowsPhone_1.1.0.0_scale-100.appx
+MainPackage=C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Release\Map_Sample_Uni.WindowsPhone_1.1.0.2_AnyCPU.appx
+SymbolPackage=C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\AppPackages\Map_Sample_Uni.WindowsPhone_1.1.0.2_Test\Map_Sample_Uni.WindowsPhone_1.1.0.2_AnyCPU.appxsym
+ResourcePack=C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Release\Map_Sample_Uni.WindowsPhone_1.1.0.2_scale-100.appx

@@ -5,7 +5,7 @@
     <autoResourcePackage qualifier="Scale" />
     <autoResourcePackage qualifier="DXFeatureLevel" />
   </packaging>
-  <index root="\" startIndexAt="C:\Users\ENG MOHAMED EL_SAQER\Desktop\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Release\resources.pri">
+  <index root="\" startIndexAt="C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.Windows\bin\x86\Release\resources.pri">
     <default>
       <qualifier name="Language" value="ar-eg" />
       <qualifier name="Contrast" value="standard" />
