@@ -38,7 +38,7 @@ namespace سبحتى_حياتى.Views
         {
             x = 0;
             screen.Text = x+"";
-            name.Text = menu.SelectedItem.ToString();
+            //name.Text = menu.SelectedItem.ToString();
         }
         
     }

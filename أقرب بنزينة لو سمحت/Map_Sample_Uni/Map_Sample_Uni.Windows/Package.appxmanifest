@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
-  <Identity Name="28580ENGMOHAMEDELSAQER.226331B3270CA" Publisher="CN=C7207DFD-8768-4CF1-AE91-F6BEBE9EA61D" Version="1.1.0.5" />
+  <Identity Name="28580ENGMOHAMEDELSAQER.226331B3270CA" Publisher="CN=C7207DFD-8768-4CF1-AE91-F6BEBE9EA61D" Version="1.1.0.7" />
   <Properties>
     <DisplayName>أقرب بنزينة لو سمحت</DisplayName>
-    <PublisherDisplayName>ENG MOHAMED EL_SAQER</PublisherDisplayName>
+    <PublisherDisplayName>Mohamed Saqer</PublisherDisplayName>
     <Logo>Assets\70-70.png</Logo>
   </Properties>
   <Prerequisites>

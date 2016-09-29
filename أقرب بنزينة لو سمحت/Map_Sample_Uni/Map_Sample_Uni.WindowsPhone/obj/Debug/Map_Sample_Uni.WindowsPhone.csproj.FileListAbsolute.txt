@@ -240,3 +240,42 @@ D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنز�
 D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
 D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 D:\Assembly Line 5-1 Program\My Apps\أقرب بنزينة لو سمحت\بنزينة\Map_Sample_Uni\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\App.xbf
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\about.xbf
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Map_Sample_Uni.WindowsPhone.xr.xml
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Map_Sample_Uni.WindowsPhone.exe
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Map_Sample_Uni.WindowsPhone.pdb
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\resources.pri
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\Map_Sample_Uni.WindowsPhone.build.appxrecipe
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\AdDuplex.Universal.Controls.WinPhone.XAML.winmd
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\bin\Debug\AdDuplex.Universal.WinPhone.WinRT.winmd
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\about.g.i.cs
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\about.g.cs
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\App.xaml
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\about.xaml
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\App.xbf
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\about.xbf
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\Map_Sample_Uni.WindowsPhone.exe
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\Map_Sample_Uni.WindowsPhone.pdb
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\saqer\Documents\GitHub\My-Apps\أقرب بنزينة لو سمحت\Map_Sample_Uni\Map_Sample_Uni.WindowsPhone\obj\Debug\ProjectArchitectures.txt
